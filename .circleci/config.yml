@@ -68,8 +68,8 @@ jobs:
     docker:
       - image: circleci/python:3.6.3
     environment:
-      S3_BUCKET_NAME: <arn:aws:s3:::david-juan-blog-staging>-staging
-      CLOUD_FRONT_DIST_ID: <E4EWVLMLQFR27>
+      S3_BUCKET_NAME: "arn:aws:s3:::david-juan-blog-staging"
+      CLOUD_FRONT_DIST_ID: "E4EWVLMLQFR27"
     steps:
       - attach_workspace:
           at: ./
@@ -82,8 +82,8 @@ jobs:
     docker:
       - image: circleci/python:3.6.3
     environment:
-      S3_BUCKET_NAME: <arn:aws:s3:::david-juan-blog-production>--prod
-      CLOUD_FRONT_DIST_ID: <E2OW28B2CHBU81>
+      S3_BUCKET_NAME: "arn:aws:s3:::david-juan-blog-production"
+      CLOUD_FRONT_DIST_ID: "E2OW28B2CHBU81"
     steps:
       - attach_workspace:
           at: ./
