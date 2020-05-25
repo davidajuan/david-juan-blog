@@ -82,8 +82,8 @@ jobs:
     docker:
       - image: circleci/python:3.6.3
     environment:
-      S3_BUCKET_NAME: "david-juan-blog-production"
-      CLOUD_FRONT_DIST_ID: "E2OW28B2CHBU81"
+      S3_BUCKET_NAME: "davidjuan.com"
+      CLOUD_FRONT_DIST_ID: "E2V4C53FB0IXGT"
     steps:
       - attach_workspace:
           at: ./
