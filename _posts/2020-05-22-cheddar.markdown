@@ -4,8 +4,12 @@ title: "Mass Testing Platform Open Source Project"
 categories: technology
 ---
 
-Today I had the opportunity to be a guest on the Your Future Home show on Cheddar, to talk about how Quicken Loans built a COVID-19 Testing Site for the City of Detroit, and then open sourced it for the world.  **You can watch the [full interview](https://cheddar.com/media/how-quicken-loans-built-a-drive-thru-covid-testing-site), or you can read a summary of the interview below.**
+Today I had the opportunity to be a guest on the Your Future Home show on Cheddar, to talk about how Quicken Loans built a COVID-19 Testing Site for the City of Detroit, and then open sourced it for the world.
 
+<iframe src="https://cheddar.com/media/how-quicken-loans-built-a-drive-thru-covid-testing-site/player?autoplay=false" width="700" height="394" frameborder="0" allowfullscreen></iframe>
+
+**Watch the full interview, or read the talking points below**
+ 
 - **Why did Quicken Loans/Rock Connections see a need to help build this software?**
   - Quicken Loans is Detroit’s largest employer. In this position, it is our responsibility to do all we can to help our neighbors in Detroit. This is just the latest in a long series of public-private partnerships with the City.
   - Whenever we help the community, we look for ways we can use our skill set to make a difference. Anyone can use their money to help, but it’s even more effective when we can use the skills that we hone daily to help.
