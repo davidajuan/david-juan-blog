@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Pandemic Nesting - Office Edition"
-date:   2020-05-25 14:19:09 -0400
-categories: home
+title: "Pandemic Nesting"
 ---
-WFH Hacks and Tips.
+
+WFH Office Hacks and Tips.
