@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fighting COVID-19 through Open Source"
+title: "Project Halo: COVID-19 Drive Through Testing"
 categories: technology
 ---
 

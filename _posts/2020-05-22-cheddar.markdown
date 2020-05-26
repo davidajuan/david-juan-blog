@@ -1,7 +1,36 @@
 ---
 layout: post
-title: "Cheddar Interview"
+title: "Mass Testing Platform Open Source Project"
 categories: technology
 ---
 
-[Cheddar](https://cheddar.com/media/how-quicken-loans-built-a-drive-thru-covid-testing-site)
+Today I had the opportunity to be a guest on the Your Future Home show on Cheddar, to talk about how Quicken Loans built a COVID-19 Testing Site for the City of Detroit, and then open sourced it for the world.  **You can watch the [full interview](https://cheddar.com/media/how-quicken-loans-built-a-drive-thru-covid-testing-site), or you can read a summary of the interview below.**
+
+- **Why did Quicken Loans/Rock Connections see a need to help build this software?**
+  - Quicken Loans is Detroit’s largest employer. In this position, it is our responsibility to do all we can to help our neighbors in Detroit. This is just the latest in a long series of public-private partnerships with the City.
+  - Whenever we help the community, we look for ways we can use our skill set to make a difference. Anyone can use their money to help, but it’s even more effective when we can use the skills that we hone daily to help.
+  - At Quicken Loans, we consider ourselves a tech company that happens to do mortgages. We had the knowledge, the infrastructure and the people to be build these tools so we didn’t think twice.
+  - Rock Connections talks to people on the phone. It’s what they do and they’re very good at it. They are proud to do their part by helping metro Detroiters make appointments to be tested.
+  - This is just one component in a long list our efforts to help Detroiters in the fight against COVID-19. In the last two months The Rock Family of Companies contributed more than $6 million in funds and in-kind support
+- **The team worked around-the-clock on software development and launched the platform in five days. What went into the development?**
+  - The Technology team at Quicken Loans dedicated part of the team who usually support the Brand Marketing team to build a scheduling platform. It handles not only the scheduling, but also data orchestration and printing of critical documents. 
+  - On a Friday evening, our team laid out a plan to accomplish this in 10 days. By the next morning, as we started to engineer the solution, it became clear that the need was more urgent, and the city asked if we could have testing ready to go in five days.
+  - Focusing on creating a minimum viable product to roll out the solution as quickly as possible, we leveraged tools and technology we’ve already invested heavily into.  The same people that supported this initiative are the ones that are usually responsible for the technology for our Super Bowl campaigns and other large initiatives.  
+  - We started with an open-source scheduling tool that got us nearly 50 percent of the way there. Then, using the Scrum methodology, we broke the development down into what we could finish in a single day, and committed to delivering new features every single day. We had working software by the end of the first day, and every day after that we continued to iterate.
+  - Our technology team has invested heavily into creating reusable cloud infrastructure that prevented us from having to figure out things like security and scaling, since those have already been solved.
+  - We spent time up front in the project automating a lot of the manual processes involved in working on and releasing new features, which made it possible to move even faster as the initiative progressed.
+  - On top of all of that, we were able to get this rolled out so quickly in large part due to the sense of urgency of the development team, as well as our partners and stakeholders. Our whole team was bought in and worked hard because they believed in what we were accomplishing.
+- **Give us an idea of the process for people who want to be tested.**
+  - Residents in Wayne, Oakland and Macomb counties need to get a prescription from their doctor, then call the dedicated hotline (313-230-0505) to set up an appointment.
+  - Just this week it was opened up so Detroit residents can make an appointment without a prescription.
+  - They will receive a one-hour block to come to the testing site at the Michigan State Fairgrounds, 
+  - When they arrive, they will drive up, show their doctor’s note and have a number written on their vehicle.
+  - They will then be directed to one of a dozen tents, where a worker will swab them through the window – they never need to leave their vehicle.
+  - The entire process can take as few as 15 minutes.
+- **How many people are you able to schedule and test each day, and how has that number evolved since the launch?**
+  - We have the capacity to test more than 1,500 people per day.
+  - So far, nearly 25,000 have been tested at this facility.
+- **How can those looking to set up their own drive-through testing sites leverage this information?**
+  - We started building this by using open source software. If someone else is looking to set up their own site, we wanted them to be able to use what we built and what we learned along the way. 
+  - Ultimately, we just hope this technology can help as many people as possible! 
+  - All you have to do to get started is visit: [https://www.MassTestingPlatform.com/](https://www.MassTestingPlatform.com/)
