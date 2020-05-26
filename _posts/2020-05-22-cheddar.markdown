@@ -6,8 +6,9 @@ categories: technology
 
 Today I had the opportunity to be a guest on the Your Future Home show on Cheddar, to talk about how Quicken Loans built a COVID-19 Testing Site for the City of Detroit, and then open sourced it for the world.
 
-<iframe src="https://cheddar.com/media/how-quicken-loans-built-a-drive-thru-covid-testing-site/player?autoplay=false" width="700" height="394" frameborder="0" allowfullscreen></iframe>
-
+<div class="video-responsive">
+    <iframe src="https://cheddar.com/media/how-quicken-loans-built-a-drive-thru-covid-testing-site/player?autoplay=false" width="700" height="394" frameborder="0" allowfullscreen></iframe>
+</div>
 **Watch the full interview, or read the talking points below**
  
 - **Why did Quicken Loans/Rock Connections see a need to help build this software?**
