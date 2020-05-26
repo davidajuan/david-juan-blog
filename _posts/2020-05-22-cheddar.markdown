@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cheddar Interview"
+categories: technology
 ---
 
 [Cheddar](https://cheddar.com/media/how-quicken-loans-built-a-drive-thru-covid-testing-site)
