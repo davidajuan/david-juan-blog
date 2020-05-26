@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "pandemic nesting office edition"
+title: "Pandemic Nesting - Office Edition"
 ---
 
 WFH Office Hacks and Tips.
