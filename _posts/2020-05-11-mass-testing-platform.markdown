@@ -11,3 +11,5 @@ By that evening, I was on a call with the City of Detroit and learned that what 
 We were ready to be part of the solution, but our CIO wanted to make sure to level set on expectations.  He put it bluntly to the Mayor and his executive team:  What you're asking for is a year of work.  The response form the city:  Yes, and we need it in 10 days.  By Friday morning we were off to the races, and by Saturday afternoon we would learn that situation in Detroit was taking a sharp turn for the worse.  Spending 10 days to build a years worth of software was no longer an option; we would have to go live by day 5.  
 
 **Read the full story in this [Medium article](https://medium.com/rocket-mortgage-technology-blog/announcing-mass-testing-platform-an-open-source-covid-19-drive-through-testing-platform-and-593d49a318) that I published on the Rocket Technology blog.**
+
+[<img src="/assets/images/medium_article.png">](https://medium.com/rocket-mortgage-technology-blog/announcing-mass-testing-platform-an-open-source-covid-19-drive-through-testing-platform-and-593d49a318)
