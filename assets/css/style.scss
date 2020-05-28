@@ -3,6 +3,8 @@
 # only Main files contain this front matter, not partials.
 ---
 
+@import "colors";
+@import "footer";
 @import "layout";
 @import "dark";
 @import "{{ site.theme }}";
