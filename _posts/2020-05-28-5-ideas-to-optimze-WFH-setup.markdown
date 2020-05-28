@@ -6,13 +6,18 @@ categories: technology
 
 With nearly [half of American companies](https://www.willistowerswatson.com/en-US/News/2020/03/north-american-companies-take-steps-to-protect-employees-from-coronavirus-epidemic) implementing remote work during the 2020 global pandemic, a lot of people are thinking about their Work From Home setups.  Video conference calls often start with people asking about each other's office chairs, commenting on what they see in the background (unless someone has a hilarious digital backdrop they carefully selected before the meeting), or making small talk about some office amenity that they either miss having or have recently acquired.  Over the past 90 days or so, my wife and I have been doing a lot of what I call "pandemic nesting".  Every room in our house is decorated and organized to a T.  In this post, I'll talk about the top 5 changes I have made to my WFH setup to create a home office that I truly enjoy spending time in every day.
 
-### 1. Bias lighting for your monitor
+### 1. Cable management
+
+<img src="/assets/images/cable-management.png">
+
+I have always found that minimizing clutter helps me focus, and reduces my anxiety.  As I have added more and more technology to my desk to provide the tools that I need to work (laptop dock, monitor, phone dock, headset dock, lamp, etc.), the dangling cables and jam-packed power strip started getting out of control.  My initial thought was to conceal the cables using a wrap of some type, but then I realized that would still leave a large power strip full of adapters and plugs out in the open.  So then I got the idea to just simply mount the entire power strip to the underside of the desk.  I used 4 large 3M command strips to secure the power strip, and then bundled up all of the excess cable.  The result is one visible plug (plus an HDMI cable) going from my desk to the wall.  ::sigh of relief::
+### 2. Bias lighting for your monitor
 
 <img src="/assets/images/bias-lighting.jpg">
 
 Bias lighting is when you illuminate the space surrounding your monitor to relieve the stress that focusing on a bright screen can cause on your eyes.  It also provides a nice look to your desk setup, and can be personalized to match your surroundings.  There are solutions available that can be mounted to the back of your monitor, but I have found that a simple desk lamp will suffice.  Just angle the light so that it is directed at the back of your monitor, and it will provide a soft diffused glow to the surrounding area.  I find it has a nice calming effect, and really helps reduce eyestrain as the room darkens.
 
-### 2. Add a screen using a TV
+### 3. Add a screen using a TV
 
 <img src="/assets/images/tv-monitor.jpg">
 
@@ -21,12 +26,6 @@ I have a rather small desk in my office (47 X 24) but it is a standing desk whic
 - **Get the right mount:**  I used a sturdy full motion mount ($90 at Target) that allows me to swivel the TV and angle it whether I'm standing or sitting.
 - **Use a streaming device:**  I have found the best use case for having a third monitor is to display real-time reporting or streaming a video.  The easiest way to do that is using a streaming device, such as a Google Chromecast.  You can easily cast one of your browser tabs to the screen, or use a [Chrome Extension](https://chrome.google.com/webstore/detail/url-slideshow/pdblffiahfjjldpkngdpaegghhamefam?hl=en) to rotate multiple pages in a single tab.  It is also easy stream videos from your phone or desktop to the extra screen.
 - **Hide the cables:**  Low voltage cables can be easily concealed by running them through the wall.  Use a simple [brush wall plate](https://www.amazon.com/gp/product/B07MT1QSQM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=davidjuan-20&creative=9325&linkCode=as2&creativeASIN=B07MT1QSQM&linkId=37d7cbaee8f723585078cecb016eaa41) to clean up the appearance of the cables coming out of the wall.  I still ran an HDMI cable to my MacBook, because I wanted to have the ability to watch a video on the TV while playing the audio through my computer.  Whenever I want to do that, all I have to do is change inputs on the TV.
-
-### 3. Cable management
-
-<img src="/assets/images/cable-management.png">
-
-I have always found that minimizing clutter helps me focus, and reduces my anxiety.  As I have added more and more technology to my desk to provide the tools that I need to work (laptop dock, monitor, phone dock, headset dock, lamp, etc.), the dangling cables and jam-packed power strip started getting out of control.  My initial thought was to conceal the cables using a wrap of some type, but then I realized that would still leave a large power strip full of adapters and plugs out in the open.  So then I got the idea to just simply mount the entire power strip to the underside of the desk.  I used 4 large 3M command strips to secure the power strip, and then bundled up all of the excess cable.  The result is one visible plug (plus an HDMI cable) going from my desk to the wall.  ::sigh of relief::
 
 ### 4. Protect your floors and ditch the mat
 
