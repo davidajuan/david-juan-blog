@@ -35,25 +35,28 @@ $footer-breakpoint: 900px;
 }
 
 .footer__text {
+//   color: $gray-light;
   margin: 0;
 }
 
 .footer__icon {
   height: 1rem;
   width: 1rem;
-  fill: $gray-dark;
+  fill: $gray-light;
   padding-right: 0.625rem;
 }
 
 .footer a {
-
+  color: $blue;
+  &:visited { color: $blue;}
   &:hover,
   &:hover span.username {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $white-off;
   }
 
   &:hover + .footer__icon {
-      fill: $black-off;
+      fill: $gray-light;
     
   }
 }
