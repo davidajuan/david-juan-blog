@@ -1,10 +1,10 @@
 ---
 layout: home
 title:
-tagline: Software Engineering Director in Detroit
-description: A blog about technology, the outdoors, and life.
+tagline: Director of Engineering in Detroit, Michigan
+description: A blog about technology, the great outdoors, and life.
 ---
 
-### I am a technology guy that writes about my life, lessons, an experiences, for the amusement and benefit of anyone that takes the time to read.
+## I'm a technologist and outdoorsman from Detroit writting about my life, lessons, and experiences.
 
 
