@@ -1,0 +1,28 @@
+.home { color: $gray-lighter;}
+
+.post-list-heading { color: $orange; }
+
+span.post-meta { color: $white-off; }
+
+.post-link { color: $gray-light;
+    &:visited { color: $gray-light; }
+    &:hover {
+      text-decoration: none;
+      color: $white-off }
+    }
+
+.rss-subscribe a { color: $orange;
+    &:visited { color: $orange;}
+    &:hover {
+      text-decoration: none;
+      color: $gray }
+    }
+
+.post-content { color: $white-off;}
+
+.post-content a { color: $orange;
+    &:visited {color: $orange;}
+    &:hover {
+      text-decoration: none;
+      color: $gray;}
+    }
