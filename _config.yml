@@ -20,7 +20,7 @@
 
 title: David Juan's Blog
 email: david.a.juan@gmail.com
-description: A blog about technology, the outdoors, and life. # this means to ignore newlines until "baseurl:"
+description: A blog about technology, the great outdoors, and life. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: davidjuan

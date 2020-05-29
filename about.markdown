@@ -9,3 +9,5 @@ Hey!  I'm an Engineering Director in Detroit, and have been in the FinTech indus
 I love archery, hunting, fishing, and pretty much all things outdoors.  I play guitar whenever I can, and won the Quicken Loans [Making The Band](https://www.youtube.com/watch?v=o6ZV4m0NP-M) contest in 2014.  
 
 I somehow convinced my beautiful wife Alicia to [marry me](https://www.youtube.com/watch?v=dKtDMy_Es2E) in 2010, and together we have two girls (Sophia and Emma) that are 3 years apart.
+
+<img src="/assets/images/family.jpg">
