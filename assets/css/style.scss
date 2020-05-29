@@ -4,7 +4,10 @@
 ---
 
 @import "colors";
-@import "footer";
-@import "layout";
 @import "dark";
+@import "layout";
+@import "footer";
+@import "header";
+@import "_body";
 @import "{{ site.theme }}";
+
