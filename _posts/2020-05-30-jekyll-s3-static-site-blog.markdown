@@ -43,7 +43,7 @@ This is actually not specific to using a custom domain, and is an issue that you
 
 The problem is, Jekyll still includes the extension in the Posts links, so you will need to fix that by specifying a permalink without the extension in the _config.yml file.  Just add this line to the file:
 
-    <pre>permalink: /:categories/:year/:month/:day/:title<code>
+    permalink: /:categories/:year/:month/:day/:title
 
 ## Customize your Jekyll Site, and Enjoy!
 
