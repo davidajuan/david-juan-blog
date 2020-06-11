@@ -9,14 +9,14 @@ span.post-meta { color: $white-off; }
     &:hover {
       text-decoration: none;
       color: $white-off }
-    }
+}
 
 .rss-subscribe a { color: $orange;
     &:visited { color: $orange;}
     &:hover {
       text-decoration: none;
       color: $gray }
-    }
+}
 
 .dt-published { color: $white-off;}
 
@@ -27,6 +27,22 @@ span.post-meta { color: $white-off; }
     &:hover {
       text-decoration: none;
       color: $gray;}
-    }
+}
 
 .highlighter-rouge { color: $blue-dark;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.hero {
+  width: 100%;
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}

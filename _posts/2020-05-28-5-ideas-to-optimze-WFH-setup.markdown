@@ -8,18 +8,18 @@ With nearly [half of American companies](https://www.willistowerswatson.com/en-U
 
 ### 1. Cable management
 
-<img src="/assets/images/cable-management.png">
+<img src="/assets/images/cable-management.png" alt="A before and after pictures of cables being managed under a desk">
 
 I have always found that minimizing clutter helps me focus, and reduces my anxiety.  As I have added more and more technology to my desk to provide the tools that I need to work (laptop dock, monitor, phone dock, headset dock, lamp, etc.), the dangling cables and jam-packed power strip started getting out of control.  My initial thought was to conceal the cables using a wrap of some type, but then I realized that would still leave a large power strip full of adapters and plugs out in the open.  So then I got the idea to just simply mount the entire power strip to the underside of the desk.  I used 4 large 3M command strips to secure the power strip, and then bundled up all of the excess cable.  The result is one visible plug (plus an HDMI cable) going from my desk to the wall.  ::sigh of relief::
 ### 2. Bias lighting for your monitor
 
-<img src="/assets/images/bias-lighting.jpg">
+<img src="/assets/images/bias-lighting.jpg" alt="A picture of computer monitors with a lamp placed behind them">
 
 Bias lighting is when you illuminate the space surrounding your monitor to relieve the stress that focusing on a bright screen can cause on your eyes.  It also provides a nice look to your desk setup, and can be personalized to match your surroundings.  There are solutions available that can be mounted to the back of your monitor, but I have found that a simple desk lamp will suffice.  Just angle the light so that it is directed at the back of your monitor, and it will provide a soft diffused glow to the surrounding area.  I find it has a nice calming effect, and really helps reduce eyestrain as the room darkens.
 
 ### 3. Add a screen using a TV
 
-<img src="/assets/images/tv-monitor.jpg">
+<img src="/assets/images/tv-monitor.jpg" alt="A picture of a wall mounted television being used as a computer monitor">
 
 I have a rather small desk in my office (47 X 24) but it is a standing desk which I'm more than happy to have when working for extended periods of time.  Because I don't have a lot of desk real estate, I can only comfortably fit one monitor and an elevated laptop stand.  To provide an additional screen, I mounted a small TV that I received for "free" with a furniture purchase a couple years ago.  There were a few things that were key to making this work for me.
 
@@ -29,13 +29,13 @@ I have a rather small desk in my office (47 X 24) but it is a standing desk whic
 
 ### 4. Protect your floors and ditch the mat
 
-<img src="/assets/images/casters.jpg">
+<img src="/assets/images/casters.jpg" alt="A picture of roller blade style office chair wheels">
 
 Most office chairs (even high end ones) have hard plastic casters that roll about your floors.  As these casters pick up debris they can wreak havoc on hardwood flooring.  Also, if you have a rug that doesn't fully extend beyond your chair, you can find yourself constantly getting hung up.  To solve that, the most common approach is to put a large plastic mat underneath your chair.  The downside to that is you are adding something that will eventually need to be replaced, and lets face it, they're not great to look at.  A simple (and cheap) solution is to replace your office chair casters with ones that have large rubber roller blade style wheels.  These types of casters can easily be found on [Amazon for around $20-$30](https://www.amazon.com/gp/product/B01KSTLMRW/ref=as_li_tl?ie=UTF8&tag=davidjuan-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KSTLMRW&linkId=c68e7c53b996b63e78e481aa245503e7), with a variety of companies making them.  I went with the $25 ones, and have been very happy with how they have performed.  Casters on office chairs tend to be a standard size, so all that you have to do to replace them is simply pull out the old ones, and push in the new ones.
 
 ### 5. Save your neck
 
-<img src="/assets/images/raised-monitor.jpg">
+<img src="/assets/images/raised-monitor.jpg" alt="A picture of monitors raised to the proper heigh on a shelf">
 
 There are two key components to maintaining good posture when working at a desk for extended periods of time:  your chair (or ability to stand), and your monitor height.  I'll get into chairs in another post, since that topic is a bit more involved.  For you monitor, it is important to achieve a height that allows you to keep your neck in a neutral position.  That can be as easy as putting a few large books underneath your stand to bring the top of the screen at or slightly above eye level.  You also want to make sure that the monitor is around 20 inches away from your face, to avoid eye strain.  I happen to have some old reclaimed wood in my garage, so I spent some time sanding it down and making a few cuts with a circular saw to create a nice looking shelf.  I left the wood bare, and just rubbed some mineral oil on it to darken it up a bit and provide protection.  An added benefit of having a shelf for your monitor, is that it provides a place to easily store your keyboard when more desk space is needed.
 
