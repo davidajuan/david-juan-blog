@@ -4,7 +4,7 @@ title: "Picking the Right WFH Office Chair"
 categories: technology
 ---
 
-<img src="/assets/images/wfh-office-chair.png" alt="Title Image" class="center">
+<img src="/assets/images/picking-the-right-wfh-office-chair.png" alt="Title Image" class="center">
 
 What is the difference between the typical chrome and bonded leather office chairs that you can pickup at a big box store, and the crazy looking "ergonomic" chairs that you find in most offices?  Many people are quickly learning (and feeling) the difference as the majority of office workers across the globe are working from home on a regular basis.  Suddenly, the home office chairs that were picked mostly based on looks are being pushed well beyond their limits.  We're spending even more time seated at our desks now compared to when we were in the office, because every activity is done from the same screen.  Walking over to someones desk to ask a question, huddling up with your team, or moving between floors for a meeting, is all replaced with a few button clicks while seated at your desk.  That is why I think that **picking the right WFH office chair is more important now than ever**.
 
