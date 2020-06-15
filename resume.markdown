@@ -32,9 +32,9 @@ permalink: /resume/
 
 - Accepted to speak on Scaling Scrum at the Agile 2020 Conference
 
-- Leader of the MassTestingPlatform.com COVID-19 Open Source Project
+- Leader of the [MassTestingPlatform.com](https://www.masstestingplatform.com) COVID-19 Open Source Project
 
-- Founder of the ScrumDetroit.com Scrum Alliance Meetup Group
+- Founder of the [ScrumDetroit.com](https://www.scrumdetroit.com) Scrum Alliance Meetup Group
 
 ## CORE COMPETENCIES
 
