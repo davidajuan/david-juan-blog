@@ -48,4 +48,4 @@ I was able to fit all of this into the coffee tin with the exception of the firs
 
 <img src="/assets/images/stored.jpg" alt="survival kit stored in compartment" class="center">
 
-Once you have you kit built, make sure to revisit it every now and then to keep supplies fresh and iterate based on your experiences.  For instance, after walking my wife's bike home for 3 miles the summer, I now have a pump and innertube in my bike emergency kit at all times.  Now that you've seen what's in my kit, take some time during National Preparedness Month to think through how prepared you are for an emergency situation on the road, at home, or even on a bike ride.  Have fun!
+Once you have you kit built, make sure to revisit it every now and then to keep supplies fresh and iterate based on your experiences.  For instance, after walking my wife's bike home for 3 miles this past summer, I now have a pump and innertube in my bike emergency kit at all times.  Now that you've seen what's in my kit, take some time during National Preparedness Month to think through how prepared you are for an emergency situation on the road, at home, or even on a bike ride.  Have fun!
