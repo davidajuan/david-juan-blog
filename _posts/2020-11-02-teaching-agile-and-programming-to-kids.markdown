@@ -9,7 +9,7 @@ categories: technology
 
 With most afterschool and extracurricular programs being put on hold or moved to a virtual format, my wife and I have been looking for ways to provide hands-on STEM learning activities for our two daughters.  A few years ago I bought one of my daughters the Fisher Price Code-A-Pillar, which was played with for a few days before being put into long term hibernation in the toy bin.  It finally made it's way back out the other day, and after putting some fresh batteries in it I decided to see if now that my daughter is a few years there is more interest in learning how to program.
 
-The <a target="_blank" href="https://www.amazon.com/gp/product/B07MLXX9NN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLXX9NN&linkCode=as2&tag=davidjuan-20&linkId=54f26f8c13290da28ff4e1436d8393a6">Code-A-Pillar</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=davidjuan-20&l=am2&o=1&a=B07MLXX9NN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is basically a robot that is fed instructions by connecting modular segments to it's body.  You can sequence the body segments in different orders to navigate the robot through obstacle courses, and have it play music at various points.
+The [Code-a-Pillar](https://amzn.to/3elJTsz) is basically a robot that is fed instructions by connecting modular segments to it's body.  You can sequence the body segments in different orders to navigate the robot through obstacle courses, and have it play music at various points.
 
 <img src="/assets/images/Code-A-Pillar.jpg" alt="Code-A-Pillar" class="center">
 
