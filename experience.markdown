@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /Experience/
+permalink: /experience/
 ---
 
 ## QUALIFICATIONS SUMMARY
