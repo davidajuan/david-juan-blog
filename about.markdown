@@ -10,4 +10,6 @@ I love archery, hunting, fishing, and pretty much all things outdoors.  I play g
 
 I somehow convinced my beautiful wife Alicia to [marry me](https://www.youtube.com/watch?v=dKtDMy_Es2E) in 2010, and together we have two girls (Sophia and Emma) that are 3 years apart.
 
+Learn more about my professional experience [here](/experience/) or on [LinkedIn](https://www.linkedin.com/in/davidajuan/).
+
 <img src="/assets/images/family.jpg">
