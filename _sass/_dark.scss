@@ -1,11 +1,6 @@
-/** dark theme (compatibility wrapper)
-	Use the primary palette variables; this file previously forced
-	a dark background which conflicted with the new design.
-*/
+/** dark theme */
 
-// Map legacy dark-theme variables to the new palette so imports
-// that reference $background-color or $text-color keep working.
-$background-color: $body-bg; /* prefer the new body background */
-$text-color: $text-default;
-$grey-color-light: $header-footer-bg; /* for the border-top separators */
-$grey-color-dark: $gray-lighter; /* such as the site title in the header, visited */
+$background-color: $black-off; /* a dark, off-black for the bg */
+$text-color: $white-off; /* an off-white for the text */
+$grey-color-light: $blue-dark; /* for the border-top separators */
+$grey-color-dark: $gray-light; /* such as the site title in the header, visited */
