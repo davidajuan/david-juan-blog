@@ -5,4 +5,4 @@ categories: technology
 ---
 Last year Rocket Mortgage announced a new program called Rock Academy, offering fully funded degree programs through several different universities. This was the push that I needed to finally finish the degree I was working on when Quicken Loans hired me 15 years ago. Today I finally walked across the stage thanks to the support of my family, team, and company. Thank you! 
 
-<img src="/assets/images/boiler-up.jpeg" alt="Picture of me at graduation" class="center">
+<img src="/assets/images/boiler-up.jpg" alt="Picture of me at graduation" class="center">

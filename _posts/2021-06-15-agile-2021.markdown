@@ -5,4 +5,4 @@ categories: technology
 ---
 Next month I will be representing Rocket Mortgage at the largest Agile conference in the world! This year marks the 20th anniversary of both the conference and the Agile Manifesto. I'm excited to share the content that I've been working on with David Negron and Jeff Sutherland.
 
-<img src="/assets/images/agile-2021.jpeg" alt="Highlights from my journey at Rocket" class="center">
+<img src="/assets/images/agile-2021.jpg" alt="Highlights from my journey at Rocket" class="center">

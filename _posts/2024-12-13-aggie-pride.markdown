@@ -9,4 +9,4 @@ I have to say that the benefits at Rocket Companies and Rocket Mortgage are incr
 
 I’m excited to apply some of the hypothesis testing, regression analysis, experimentation, and computer science knowledge that have I gained, but I’m even more excited to NEVER HAVE HOMEWORK AGAIN!
 
-<img src="/assets/images/aggie-pride.jpeg" alt="Picture of me at graduation" class="center">
+<img src="/assets/images/aggie-pride.jpg" alt="Picture of me at graduation" class="center">
