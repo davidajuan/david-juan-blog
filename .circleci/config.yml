@@ -106,7 +106,8 @@ workflows:
             - build
           filters:
             branches:
-              only: master
+              only:
+                - main
       - confirm_deploy:
           type: approval
           requires:
