@@ -31,7 +31,7 @@ jobs:
   build:
     <<: *defaults
     docker:
-      - image: circleci/ruby:2.6.0-node
+      - image: circleci/ruby:3.2.2-node
     environment:
       BUNDLE_PATH: ~/repo/vendor/bundle
     steps:
@@ -45,7 +45,12 @@ jobs:
           command: |
             echo 'export BUNDLER_VERSION=$(cat Gemfile.lock | tail -1 | tr -d " ")' >> $BASH_ENV
             source $BASH_ENV
-            gem install bundler
+            # Install the Bundler version recorded in Gemfile.lock; fall back to 2.1.4 if that fails or is empty
+            if [ -n "$BUNDLER_VERSION" ]; then
+              gem install bundler -v "$BUNDLER_VERSION" || gem install bundler -v "2.1.4"
+            else
+              gem install bundler -v "2.1.4"
+            fi
       - run:
           name: Bundle Install
           command: bundle check || bundle install
