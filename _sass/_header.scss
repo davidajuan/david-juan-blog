@@ -8,9 +8,24 @@
   color: $white-off;
 }
 
+/* Navigation links: use site title color, transparent background (no button appearance),
+   and clear hover/active states for accessibility */
 .site-nav .page-link {
   color: $site-title-color;
+  background: transparent;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
   font-weight: 600;
-  text-shadow: 0 1px 0 rgba(0,0,0,0.2);
-  &:hover { color: $link-accent-hover; }
+  text-shadow: none;
+  text-decoration: none;
+  display: inline-block;
+  transition: color 150ms ease, background-color 150ms ease;
+  &:hover {
+    color: $link-accent-hover;
+    background: rgba(255,255,255,0.03); /* subtle hover lift */
+  }
+  &.active {
+    color: $site-title-color;
+    background: rgba(255,255,255,0.06); /* slightly stronger active bg */
+  }
 }
