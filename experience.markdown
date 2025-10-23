@@ -48,22 +48,22 @@ Built a 163-person Software Engineering organization responsible for a $24.5M op
 
 As the Rocket Family of Companies evolved into a diverse set of homeownership brands, I was tasked with aligning each company into a unified Digital Storefront.  During this time, I led the selection and implementation of Rocket’s first Digital Experience Platform (Sitecore DXP and Content Hub) and a next-gen Digital Marketing Automation Platform (SFMC). I was also responsible for the selection and implementation of Rocket’s next generation dialing platform (Alvaria) before it was eventually migrated to Twilio.
 
-#### Director, Software Engineering
+### Quicken Loans - Director, Software Engineering
 *September 2015 – September 2020*
 
 Responsible for Architecture, Engineering, and Operations across 5 teams that own the Digital Storefront for Rocket Mortgage.  This included both the presentation layer, as well as the underlying tooling, systems, and infrastructure.  I was responsible for the selection and implementation of Rocket’s first Content Management (Ingeniux and WordPress CMS), Digital Asset Management (Widen DAM), Digital Analytics (Adobe Analytics), and Experimentation (Adobe Target and Oracle Maxymiser) platforms.  I also created Rocket Mortgage’s first Experimentation Program.
 
-#### Team Leader, Engineering
+### Quicken Loans - Team Leader, Engineering
 *2013 – 2015*
 
 Recognized as a top performer and promoted to lead a software engineering team tasked with building and implementing the first Master Data Management, Marketing Automation, and Marketing Operations platforms at Rocket Mortgage.  This involved both home-grown and commercially built solutions.  Grew MarTech and Operational Data Engineering from one team to three in just two years.
 
-#### Product Owner
+### Quicken Loans - Product Owner
 *2012 – 2013*
 
 Leveraged a combination of deep business and technology knowledge to create complex solutions.  Led the implementation of the first Client Loyalty Program at Rocket Mortgage (Gold and Silver Card Program).
 
-#### Executive Mortgage Banker
+### Quicken Loans - Executive Mortgage Banker
 *2007 – 2012*
 
 Earned Senior Mortgage Banker and Executive Mortgage Banker titles during the most difficult years in modern history to originate mortgages.  Rocket Mortgage Banking was regarded as a highly competitive, challenging, and rewarding sales environment.
