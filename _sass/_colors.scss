@@ -1,7 +1,18 @@
+$body-bg: #EAEAEA;
+$text-default: #222222;
+$header-footer-bg: #2C3E50;
+$link-accent: #4FC3F7;
+$link-accent-hover: #6FE9FF;
+$link-accent-muted: #3FB3D9;
+
+// legacy / fallback aliases
+$white-off: #F0F0F0;
 $gray-light: #b3ccd6;
 $blue-dark: #30475e;
-$white-off: #ececec;
 $black-off: #222831;
 $orange: #f2a365;
 $gray: gray;
 $gray-lighter: rgb(206, 199, 199);
+
+// site title color defaults to a readable header title color
+$site-title-color: $white-off;
