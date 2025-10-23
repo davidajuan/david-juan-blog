@@ -10,6 +10,11 @@
             </span>
           </label>
   
-          <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/experience/">Resume</a><a class="page-link" href="/contact/">Contact</a></div>
+          <div class="trigger">
+            <a class="page-link{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a>
+            <a class="page-link{% if page.url == '/experience/' %} active{% endif %}" href="/experience/">Resume</a>
+            <a class="page-link{% if page.url == '/recommendations/' %} active{% endif %}" href="/recommendations/">Recommendations</a>
+            <a class="page-link{% if page.url == '/contact/' %} active{% endif %}" href="/contact/">Contact</a>
+          </div>
         </nav></div>
   </header>

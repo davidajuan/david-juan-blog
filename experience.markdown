@@ -30,6 +30,7 @@ permalink: /experience/
 - Conversion rate and search engine optimization (A/B testing, SEO, web performance)
 - Scrum and agile development (Lean, Six Sigma, SAFe, Scrum@Scale, Scrum, XP)
 
+---
 
 ## Professional experience
 
@@ -67,6 +68,8 @@ Leveraged a combination of deep business and technology knowledge to create comp
 *2007 – 2012*
 
 Earned Senior Mortgage Banker and Executive Mortgage Banker titles during the most difficult years in modern history to originate mortgages.  Rocket Mortgage Banking was regarded as a highly competitive, challenging, and rewarding sales environment.
+
+---
 
 ## Education
 ### M.S. in Technology Management, NC A&T State University ###
@@ -114,6 +117,8 @@ Completed 40 hours of Scrum education and validated 24 months of hands on Scrum 
 
 - Trained under Dr. Jeff Sutherland on scaling Scrum and Lean Product Development practices across multiple teams.
 - [Certification](/assets/Certifications/David_Juan_Scrum_at_Scale_Practicioner_Certificate.pdf)
+
+---
 
 ## Awards
 ### Rock Honors Award, 2020 - Best Performance in a Director Role
