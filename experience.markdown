@@ -3,6 +3,7 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
+[Download (PDF)](/assets/Certifications/David_Juan_Resume_10192025.pdf)
 
 ## Qualifications summary
 
@@ -120,6 +121,6 @@ Completed 40 hours of Scrum education and validated 24 months of hands on Scrum 
 ## Publications
 
 ### Rocket Mortgage Delivers Twice the Value in Half the Time at Scale, HICSS-55 2022
-[ScholarSpace paper](https://scholarspace.manoa.hawaii.edu/handle/10125/80223)
+[ScholarSpace](https://scholarspace.manoa.hawaii.edu/handle/10125/80223)
 
-[White paper (PDF)](/assets/Certifications/David_Juan_Whitepaper.pdf)
+[Download (PDF)](/assets/Certifications/David_Juan_Whitepaper.pdf)
