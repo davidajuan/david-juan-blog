@@ -12,4 +12,4 @@ We were ready to be part of the solution, but our CIO wanted to make sure to lev
 
 **Read the full story in this [Medium article](https://medium.com/rocket-mortgage-technology-blog/announcing-mass-testing-platform-an-open-source-covid-19-drive-through-testing-platform-and-593d49a318) that I published on the Rocket Technology blog.**
 
-[<img src="/assets/images/medium_article.png" alt="A screenshot of an article" class="center">](https://medium.com/rocket-mortgage-technology-blog/announcing-mass-testing-platform-an-open-source-covid-19-drive-through-testing-platform-and-593d49a318)
+[<img src="/assets/images/medium_article.png.webp" alt="A screenshot of an article" class="center">](https://medium.com/rocket-mortgage-technology-blog/announcing-mass-testing-platform-an-open-source-covid-19-drive-through-testing-platform-and-593d49a318)
