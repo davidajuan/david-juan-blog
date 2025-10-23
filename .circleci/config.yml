@@ -104,9 +104,10 @@ workflows:
       - deploy_staging:
           requires:
             - build
-            filters:
-              branches:
-                only: main
+          filters:
+            branches:
+              only:
+                - main
       - confirm_deploy:
           type: approval
           requires:
