@@ -30,8 +30,6 @@ permalink: /experience/
 - Conversion rate and search engine optimization (A/B testing, SEO, web performance)
 - Scrum and agile development (Lean, Six Sigma, SAFe, Scrum@Scale, Scrum, XP)
 
----
-
 ## Professional experience
 
 ### Rocket Mortgage — Senior Director, Data Engineering
@@ -68,8 +66,6 @@ Leveraged a combination of deep business and technology knowledge to create comp
 *2007 – 2012*
 
 Earned Senior Mortgage Banker and Executive Mortgage Banker titles during the most difficult years in modern history to originate mortgages.  Rocket Mortgage Banking was regarded as a highly competitive, challenging, and rewarding sales environment.
-
----
 
 ## Education
 ### M.S. in Technology Management, NC A&T State University ###
@@ -118,13 +114,10 @@ Completed 40 hours of Scrum education and validated 24 months of hands on Scrum 
 - Trained under Dr. Jeff Sutherland on scaling Scrum and Lean Product Development practices across multiple teams.
 - [Certification](/assets/Certifications/David_Juan_Scrum_at_Scale_Practicioner_Certificate.pdf)
 
----
+## Awards and Publications
+Rock Honors Award, 2020 - Best Performance in a Director Role
 
-## Awards
-### Rock Honors Award, 2020 - Best Performance in a Director Role
-
-## Publications
-### Rocket Mortgage Delivers Twice the Value in Half the Time at Scale, HICSS-55 2022
+Rocket Mortgage Delivers Twice the Value in Half the Time at Scale, HICSS-55 2022
 [ScholarSpace](https://scholarspace.manoa.hawaii.edu/handle/10125/80223)
 
 [Download (PDF)](/assets/Certifications/David_Juan_Whitepaper.pdf)
