@@ -68,13 +68,14 @@ Leveraged a combination of deep business and technology knowledge to create comp
 
 Earned Senior Mortgage Banker and Executive Mortgage Banker titles during the most difficult years in modern history to originate mortgages.  Rocket Mortgage Banking was regarded as a highly competitive, challenging, and rewarding sales environment.
 
-## EDUCATION
+## Education
 ### M.S. in Technology Management, NC A&T State University ###
 Coursework on Business Administration (Statistics, Analytics, Strategy, Innovation, and Research), Lean Six Sigma, Design of Experiments, and Cyber Security.
 
 ### B.S. in Cloud Computing and Solutions, Purdue University Global ###
 Coursework on Hyperscaler Architecture, System Engineering (Windows and Linux), Network and System Security, and Database Engineering.  Graduated Summa Cum Laude with highest distinction.  
 
+## Certifications
 ### AWS Solutions Architect — Associate, Amazon Web Services
 *2018*
 
@@ -115,11 +116,9 @@ Completed 40 hours of Scrum education and validated 24 months of hands on Scrum 
 - [Certification](/assets/Certifications/David_Juan_Scrum_at_Scale_Practicioner_Certificate.pdf)
 
 ## Awards
-
 ### Rock Honors Award, 2020 - Best Performance in a Director Role
 
 ## Publications
-
 ### Rocket Mortgage Delivers Twice the Value in Half the Time at Scale, HICSS-55 2022
 [ScholarSpace](https://scholarspace.manoa.hawaii.edu/handle/10125/80223)
 
