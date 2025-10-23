@@ -1,21 +1,18 @@
-$body-bg: #EAEAEA; // light gray background for body
-$text-default: #222222; // dark charcoal for default text
-$header-footer-bg: #2C3E50; // muted navy for header/footer
-$link-accent: #4FC3F7; // aqua accent for links and headings
-$link-accent-hover: #6FE9FF; // slightly brighter hover color
-
-// Muted accent for headings where the full-bright aqua is too intense
+$body-bg: #EAEAEA;
+$text-default: #222222;
+$header-footer-bg: #2C3E50;
+$link-accent: #4FC3F7;
+$link-accent-hover: #6FE9FF;
 $link-accent-muted: #3FB3D9;
 
-// fallback/legacy variables
+// legacy / fallback aliases
 $white-off: #F0F0F0;
-
-// site title / header text color
-$site-title-color: $white-off;
+$gray-light: #b3ccd6;
+$blue-dark: #30475e;
+$black-off: #222831;
+$orange: #f2a365;
+$gray: gray;
 $gray-lighter: rgb(206, 199, 199);
 
-// Legacy aliases for older partials
-// These keep older _sass files working after the palette rename
-$black-off: #222831; // legacy off-black
-$blue-dark: $header-footer-bg; // map old blue-dark to header/footer navy
-$gray-light: $gray-lighter;
+// site title color defaults to a readable header title color
+$site-title-color: $white-off;

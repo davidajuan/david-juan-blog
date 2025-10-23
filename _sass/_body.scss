@@ -1,34 +1,35 @@
-body {
-  background-color: $body-bg;
-  color: $text-default;
-}
+.home { color: $gray-lighter;}
 
-.home { color: $text-default; }
-
-.post-list-heading { color: $link-accent-muted; }
+.post-list-heading { color: $orange; }
 
 span.post-meta { color: $white-off; }
 
-.post-link { color: $link-accent;
-  &:visited { color: $link-accent-muted; }
-  &:hover { text-decoration: none; color: $link-accent; }
+.post-link { color: $gray-light;
+    &:visited { color: $gray-light; }
+    &:hover {
+      text-decoration: none;
+      color: $white-off }
 }
 
-.rss-subscribe a { color: $link-accent;
-  &:visited { color: $link-accent; }
-  &:hover { text-decoration: none; color: $link-accent-hover; }
+.rss-subscribe a { color: $orange;
+    &:visited { color: $orange;}
+    &:hover {
+      text-decoration: none;
+      color: $gray }
 }
 
-.dt-published { color: $white-off; }
+.dt-published { color: $white-off;}
 
-.post-content { color: $text-default; }
+.post-content { color: $white-off;}
 
-.post-content a { color: $link-accent;
-  &:visited { color: $link-accent-muted; }
-  &:hover { text-decoration: none; color: $link-accent; }
+.post-content a { color: $orange;
+    &:visited {color: $orange;}
+    &:hover {
+      text-decoration: none;
+      color: $gray;}
 }
 
-.highlighter-rouge { color: $header-footer-bg; }
+.highlighter-rouge { color: $blue-dark;}
 
 .center {
   display: block;
