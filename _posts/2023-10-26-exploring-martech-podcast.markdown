@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ins and Outs of Customer Data Platforms (CDPs) with David Juan – IT in the D 511"
+title: "Exploring MarTech Podcast – IT in the D 469"
 categories: technology
 ---
 I'm excited to share that I recently recorded my *first-ever* podcast episode!

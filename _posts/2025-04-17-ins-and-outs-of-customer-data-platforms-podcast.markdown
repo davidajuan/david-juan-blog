@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ins and Outs of Customer Data Platforms (CDPs) with David Juan – IT in the D 511"
+title: "Ins and Outs of Customer Data Platforms (CDPs) Podcast – IT in the D 511"
 categories: technology
 ---
 I had so much fun talking about Customer Data Platforms, my favorite TV shows, and shopping at Costco with Bob Waltenspiel on the IT in the D podcast earlier this week. Check it out and let me know what you think! Disclaimer: it's allergy season, so I sound a little nasally.
