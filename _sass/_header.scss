@@ -3,13 +3,3 @@
       text-decoration: none;
     }
 }
-
-.site-header {
-  background-color: $header-footer-bg;
-  color: $white-off;
-}
-
-.site-nav .page-link {
-  color: $white-off;
-  &:hover { color: $link-accent-hover; }
-}
