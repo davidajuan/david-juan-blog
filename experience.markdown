@@ -97,7 +97,7 @@ Completed case study on implementing Scrum@Scale and co-trained with Dr. Jeff Su
 - Plan and successfully execute Program Increments
 - Execute and release value through Agile Release Trains
 - Build an Agile portfolio with Lean-Agile budgeting
-- [Certification](/assets/Certifications/David_Juan_SAFe_4_Agilist_Certificate.pdf)
+- [Certification](/assets/Certifications/David_Juan_SAFe_4_Agilst_Certificate.pdf)
 
 ### Certified Scrum Professional, Scrum Alliance
 *2017*
