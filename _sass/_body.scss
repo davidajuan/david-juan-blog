@@ -3,9 +3,9 @@ body {
   color: $text-default;
 }
 
-.home { color: $gray-lighter; }
+.home { color: $text-default; }
 
-.post-list-heading { color: $link-accent; }
+.post-list-heading { color: $link-accent-muted; }
 
 span.post-meta { color: $white-off; }
 
