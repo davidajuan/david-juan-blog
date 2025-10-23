@@ -74,18 +74,21 @@ Coursework on Business Administration (Statistics, Analytics, Strategy, Innovati
 ### B.S. in Cloud Computing and Solutions, Purdue University Global ###
 Coursework on Hyperscaler Architecture, System Engineering (Windows and Linux), Network and System Security, and Database Engineering.  Graduated Summa Cum Laude with highest distinction.  
 
-### AWS Solutions Architect -- Associate, Amazon Web Services <br> *2018*
+### AWS Solutions Architect — Associate, Amazon Web Services
+*2018*
 
 - Effectively demonstrate knowledge of how to architect and deploy secure and robust applications on AWS technologies
 - Define a solution using architectural design principles based on customer requirements
 - Provide implementation guidance based on best practices to the organization throughout the life cycle of the project
 - [Certification](/assets/Certifications/David_Juan_AWS_Certified_Solutions_Architect_Associate_certificate.pdf)
 
-### Scrum@Scale Trainer, Scrum@Scale <br> *2018*
+### Scrum@Scale Trainer, Scrum@Scale
+*2018*
 
 Completed case study on implementing Scrum@Scale and co-trained with Dr. Jeff Sutherland (Co-creator of Scrum) for 40 hours at the Scrum Inc. headquarters in Cambridge, MA.
 
-### SAFe 4 Agilist, Scaled Agile, Inc. <br> *2018*
+### SAFe 4 Agilist, Scaled Agile, Inc.
+*2018*
 
 - Apply SAFe to scale Lean and Agile development in the enterprise
 - Apply Lean-Agile Mindset and principles
@@ -94,7 +97,8 @@ Completed case study on implementing Scrum@Scale and co-trained with Dr. Jeff Su
 - Build an Agile portfolio with Lean-Agile budgeting
 - [Certification](/assets/Certifications/David_Juan_SAFe_4_Agilist_Certificate.pdf)
 
-### Certified Scrum Professional, Scrum Alliance. <br> *2017*
+### Certified Scrum Professional, Scrum Alliance
+*2017*
 
 Completed 40 hours of Scrum education and validated 24 months of hands on Scrum experience.  Achieved the following certifications:
 
@@ -103,7 +107,8 @@ Completed 40 hours of Scrum education and validated 24 months of hands on Scrum 
 - [Certified Scrum Master](/assets/Certifications/David_Juan_ScrumAlliance_CSM_Certificate.pdf)
 - [Certified Product Owner](/assets/Certifications/David_Juan_ScrumAlliance_CSPO_Certificate.pdf)
 
-### Scrum@Scale Practitioner, Scrum@Scale <br> *2017*
+### Scrum@Scale Practitioner, Scrum@Scale
+*2017*
 
 - Trained under Dr. Jeff Sutherland on scaling Scrum and Lean Product Development practices across multiple teams.
 - [Certification](/assets/Certifications/David_Juan_Scrum_at_Scale_Practicioner_Certificate.pdf)
