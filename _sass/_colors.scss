@@ -7,9 +7,3 @@ $link-accent-hover: #6FE9FF; // slightly brighter hover color
 // fallback/legacy variables
 $white-off: #F0F0F0;
 $gray-lighter: rgb(206, 199, 199);
-
-// Legacy aliases for older partials
-// These keep older _sass files working after the palette rename
-$black-off: #222831; // legacy off-black
-$blue-dark: $header-footer-bg; // map old blue-dark to header/footer navy
-$gray-light: $gray-lighter;
