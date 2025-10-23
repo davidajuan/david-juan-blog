@@ -4,6 +4,9 @@ $header-footer-bg: #2C3E50; // muted navy for header/footer
 $link-accent: #4FC3F7; // aqua accent for links and headings
 $link-accent-hover: #6FE9FF; // slightly brighter hover color
 
+// Muted accent for headings where the full-bright aqua is too intense
+$link-accent-muted: #3FB3D9;
+
 // fallback/legacy variables
 $white-off: #F0F0F0;
 $gray-lighter: rgb(206, 199, 199);
