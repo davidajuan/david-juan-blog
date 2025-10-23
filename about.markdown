@@ -12,4 +12,4 @@ I somehow convinced my beautiful wife Alicia to [marry me](https://www.youtube.c
 
 Learn more about my professional experience [here](/experience/) or on [LinkedIn](https://www.linkedin.com/in/davidajuan/).
 
-<img src="/assets/images/family.jpg">
+<img src="/assets/images/family.jpg.webp">

@@ -6,11 +6,11 @@ categories: outdoors
 
 September is [National Preparedness Month](https://www.ready.gov/september), and this week I just so happen to finish off a Costco sized container of Dunkin' Donuts coffee so I decided to make a coffee can survival kit.  This is an *almost* perfect vessel for a survival kit, since it is safety orange, made of semi-durable plastic, and is a tall container that is still slim enough to fit in a backpack or storage compartment.
 
-<img src="/assets/images/kit.jpg" alt="a coffee can survival kit" class="center">
+<img src="/assets/images/kit.jpg.webp" alt="a coffee can survival kit" class="center">
 
 Sometimes it's fun to pick a simple constraint, such as the vessel for your survival kit, and adapt your solution to fit within it.  I've seen some really cool survival kits stored in Altoid tins, which can be carried easily in your pocket.  There are plenty of store bought survival kits on the market that would do just fine, but what's the fun in that?
 
-<img src="/assets/images/packed.jpg" alt="a view of the packed survival kit" class="center">
+<img src="/assets/images/packed.jpg.webp" alt="a view of the packed survival kit" class="center">
 
 Everything I put into this container is something I already had from various survival and roadside emergency kits I've put together over the past 20 years.  In 2006 I started getting serious about always having a survival kit in my car after James Kim, a CNET editor I followed at the time, died of hypothermia after his car got stuck on a road that was supposed to be closed.  The [story](https://www.cnet.com/news/james-kim-died-of-hypothermia-autopsy-reveals/) is really sad and involved James and his entire family being stranded for more than week before he eventually ventured out for help, never returning.  Since then, I've created a few different versions of survival kits that always stay in both mine and my wife's cars.  I've gradually swapped out things that I realized are very unlikely to get used (zombie apocalypse machete?) for things that I've found myself needing in less than life-threatening situations (batteries and diapers).  As unlikely as they are to be used, I still always try to have a few things that are for "worst case" scenarios in my kit, hoping that they never actually need to be used.
 
@@ -45,11 +45,11 @@ Here is a list of the things that I am currently keeping my survival kit, in no 
 - **Fishing kit.**
 - **Notebook and pen.**  Write down your inventory on the first page, and then record any information you would need in a pinch if you had to evacuate your home because of a fire or natural disaster.
 
-<img src="/assets/images/contents.jpg" alt="contents of survival kit" class="center">
+<img src="/assets/images/contents.jpg.webp" alt="contents of survival kit" class="center">
 
 I was able to fit all of this into the coffee tin with the exception of the first aid kit, camping knife, steel cup, and N95 masks.  These items can all be easily stored next to the kit.  Even if it could fit in the coffee tin, it is probably a good idea to keep the camping knife separate so that you can easily remove it if you're traveling somewhere that has restrictions on that kind of stuff.  Once the kit was complete, everything fit cleanly into the floor storage compartment of my Dodge Ram leaving plenty of room for other things I may want to add later.
 
-<img src="/assets/images/stored.jpg" alt="survival kit stored in compartment" class="center">
+<img src="/assets/images/stored.jpg.webp" alt="survival kit stored in compartment" class="center">
 
 After building a kit, make sure to revisit it every now and then to keep supplies fresh and iterate based on new things you learn.  For instance, after walking my wife's bike home for 3 miles this past summer, I added a pump and innertube to my bike emergency kit which I always take on long rides.  
 

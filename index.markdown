@@ -5,7 +5,7 @@ tagline: Director of Engineering in Detroit, Michigan
 description: A blog about technology, the great outdoors, and life.
 ---
 
-<img src="/assets/images/hero-color.png" alt="Hero Image">
+<img src="/assets/images/hero-color.png.webp" alt="Hero Image">
 
 ## I'm a technologist and outdoorsman from Detroit writting about my life, lessons, and experiences.
 
