@@ -1,7 +1,9 @@
-$gray-light: #b3ccd6;
-$blue-dark: #30475e;
-$white-off: #ececec;
-$black-off: #222831;
-$orange: #f2a365;
-$gray: gray;
+$body-bg: #EAEAEA; // light gray background for body
+$text-default: #222222; // dark charcoal for default text
+$header-footer-bg: #2C3E50; // muted navy for header/footer
+$link-accent: #4FC3F7; // aqua accent for links and headings
+$link-accent-hover: #6FE9FF; // slightly brighter hover color
+
+// fallback/legacy variables
+$white-off: #F0F0F0;
 $gray-lighter: rgb(206, 199, 199);

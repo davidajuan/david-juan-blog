@@ -1,35 +1,34 @@
-.home { color: $gray-lighter;}
+body {
+  background-color: $body-bg;
+  color: $text-default;
+}
 
-.post-list-heading { color: $orange; }
+.home { color: $gray-lighter; }
+
+.post-list-heading { color: $link-accent; }
 
 span.post-meta { color: $white-off; }
 
-.post-link { color: $gray-light;
-    &:visited { color: $gray-light; }
-    &:hover {
-      text-decoration: none;
-      color: $white-off }
+.post-link { color: $link-accent;
+  &:visited { color: $link-accent; }
+  &:hover { text-decoration: none; color: $link-accent-hover; }
 }
 
-.rss-subscribe a { color: $orange;
-    &:visited { color: $orange;}
-    &:hover {
-      text-decoration: none;
-      color: $gray }
+.rss-subscribe a { color: $link-accent;
+  &:visited { color: $link-accent; }
+  &:hover { text-decoration: none; color: $link-accent-hover; }
 }
 
-.dt-published { color: $white-off;}
+.dt-published { color: $white-off; }
 
-.post-content { color: $white-off;}
+.post-content { color: $text-default; }
 
-.post-content a { color: $orange;
-    &:visited {color: $orange;}
-    &:hover {
-      text-decoration: none;
-      color: $gray;}
+.post-content a { color: $link-accent;
+  &:visited { color: $link-accent; }
+  &:hover { text-decoration: none; color: $link-accent-hover; }
 }
 
-.highlighter-rouge { color: $blue-dark;}
+.highlighter-rouge { color: $header-footer-bg; }
 
 .center {
   display: block;
