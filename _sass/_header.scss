@@ -1,7 +1,6 @@
 .site-title {
-    &:hover {
-      text-decoration: none;
-    }
+  color: $site-title-color;
+  &:hover { text-decoration: none; }
 }
 
 .site-header {
@@ -10,7 +9,7 @@
 }
 
 .site-nav .page-link {
-  color: $white-off;
+  color: $site-title-color;
   font-weight: 600;
   text-shadow: 0 1px 0 rgba(0,0,0,0.2);
   &:hover { color: $link-accent-hover; }

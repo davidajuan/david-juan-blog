@@ -10,8 +10,8 @@ body {
 span.post-meta { color: $white-off; }
 
 .post-link { color: $link-accent;
-  &:visited { color: $link-accent; }
-  &:hover { text-decoration: none; color: $link-accent-hover; }
+  &:visited { color: $link-accent-muted; }
+  &:hover { text-decoration: none; color: $link-accent; }
 }
 
 .rss-subscribe a { color: $link-accent;
@@ -24,8 +24,8 @@ span.post-meta { color: $white-off; }
 .post-content { color: $text-default; }
 
 .post-content a { color: $link-accent;
-  &:visited { color: $link-accent; }
-  &:hover { text-decoration: none; color: $link-accent-hover; }
+  &:visited { color: $link-accent-muted; }
+  &:hover { text-decoration: none; color: $link-accent; }
 }
 
 .highlighter-rouge { color: $header-footer-bg; }
