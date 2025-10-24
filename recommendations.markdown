@@ -26,6 +26,7 @@ Below is a curated list of books I recommend, grouped by theme and annotated fro
 
 #### Teams & delivery
 
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) — Gene Kim, Kevin Behr & George Spafford — A narrative that frames flow, bottlenecks, and the operational practices engineering leaders must correct to achieve reliability and speed.
 - [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) — Patrick Lencioni — A diagnostic playbook for trust, accountability, and clarity in engineering leadership.
 - [Radical Candor](https://www.amazon.com/Radical-Candor-Kind-Direct-Kickass-Bosses/dp/1250103509) — Kim Scott — Practical coaching techniques to upskill managers and accelerate team performance.
 - [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) — Matthew Skelton & Manuel Pais — Prescribes team types and interaction modes that minimize cognitive load and speed delivery.
@@ -38,14 +39,11 @@ Below is a curated list of books I recommend, grouped by theme and annotated fro
 
 #### Product & startups
 
+- [The Power of Moments](https://www.amazon.com/Power-Moments-Customers-Connection-Extraordinary/dp/1501147765) — Chip Heath & Dan Heath — How to design onboarding, milestones, and rituals that reinforce culture and retention.
 - [Inspired](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/1119387507) — Marty Cagan — How to structure product discovery so engineering builds the right things with minimal waste.
 - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) — Eric Ries — Experimentation and validated learning to de-risk new features and product lines.
 - [Customer Data Platforms](https://www.amazon.com/Customer-Data-Platforms-People-Transform/dp/1119554990) — Martin Kihn & Christopher O'Hara — Tactical overview of CDPs and how to organize data to enable product and growth experiments.
 - [SEO for Growth](https://www.amazon.com/SEO-Growth-Integrated-Search-Marketing/dp/1118961602) — John Jantsch & Phil Singleton — Bridges product, engineering, and marketing with measurable acquisition levers engineering can instrument and drive.
-
-#### Engineering & operations
-
-- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) — Gene Kim, Kevin Behr & George Spafford — A narrative that frames flow, bottlenecks, and the operational practices engineering leaders must correct to achieve reliability and speed.
 
 #### Personal productivity & craft
 
@@ -53,16 +51,12 @@ Below is a curated list of books I recommend, grouped by theme and annotated fro
 - [Search Inside Yourself](https://www.amazon.com/Search-Inside-Yourself-Performance-Professional/dp/0062116932) — Chade-Meng Tan — Mindfulness techniques to improve leadership presence, empathy, and decision quality.
 - [Emotional Intelligence 2.0](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625) — Travis Bradberry & Jean Greaves — Actionable EQ skills for resolving conflict and influencing cross-functional stakeholders.
 - [Drive](https://www.amazon.com/Drive-Surprising-Truth-What-Motivates/dp/1594484805) — Daniel H. Pink — Motivation principles to design team autonomy and mastery into teams.
-- [The Power of Moments](https://www.amazon.com/Power-Moments-Customers-Connection-Extraordinary/dp/1501147765) — Chip Heath & Dan Heath — How to design onboarding, milestones, and rituals that reinforce culture and retention.
 
 
 #### Negotiation & influence
 
 - [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805) — Chris Voss — Negotiation tactics useful for vendor, stakeholder, and hiring negotiations.
 - [Irresistible](https://www.amazon.com/Irresistible-Rise-Addictive-Technology-Business/dp/1594206647) — Adam Alter — Insights into habit-forming product design that inform prioritization of engagement features.
-
-If you'd like, I can add authors and purchase/publisher links for each title (I can use publisher pages or Amazon links — tell me your preference). Let me know if you'd like a different grouping or a suggested reading order for leaders.
-
 
 ### Articles & Papers
 
