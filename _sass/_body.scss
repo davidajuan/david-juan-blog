@@ -46,3 +46,9 @@ span.post-meta { color: $white-off; }
   background-size: cover;
   position: relative;
 }
+
+/* Ensure indented/blockquote feedback text uses the same color as body text */
+blockquote,
+blockquote p {
+  color: $white-off;
+}
