@@ -70,10 +70,10 @@ If you'd like, I can add authors and purchase/publisher links for each title (I 
 
 - [Composable CDPs — Hype vs. Reality: Insights for Marketers](https://mcgaw.io/blog/composable-cdps-hype-reality-deep-dive-marketing-executives/) — McGaw. A practical, marketer-focused deep dive that contrasts warehouse-first and hybrid CDP approaches and lists operational trade-offs for marketing and data teams.
 
-- [Scrum: A Breathtakingly Brief and Agile Introduction](https://agilelearninglabs.com/resources/scrum-introduction/) — Agile Learning Labs. A compact, practitioner-oriented primer on Scrum roles, artifacts, and sprint cadence useful for leaders aligning delivery processes.
+- [Scrum: A Breathtakingly Brief and Agile Introduction](https://agilelearninglabs.com/resources/scrum-introduction/) — The absolute minimum information needed to bootstrap a team for self-organized delivery.
 
-- [Rocket Mortgage Delivers Twice the Value in Half the Time at Scale](https://scholarspace.manoa.hawaii.edu/items/d8e6788f-4853-45fe-b4ce-985c626ac2d5) — Proceedings of the Hawaii International Conference on System Sciences (HICSS). Case study describing how Rocket Mortgage scaled Scrum and DevOps practices to dramatically reduce cycle time and increase delivered value.
+- [Rocket Mortgage Delivers Twice the Value in Half the Time at Scale](https://scholarspace.manoa.hawaii.edu/items/d8e6788f-4853-45fe-b4ce-985c626ac2d5) — Paper I published describing how Rocket Mortgage scaled Scrum and DevOps practices to dramatically reduce cycle time and increase delivered value.
 
-- [IEEE Xplore: Document 6759182](https://ieeexplore.ieee.org/document/6759182) — IEEE. Academic/technical paper (IEEE Xplore) relevant to engineering systems; link provided (may require institutional access). Summary: technical research with insights applicable to system design and performance (see the linked IEEE page for full metadata).
+- [Teams That Finish Early Accelerate Faster: A Pattern Language for High Performing Scrum Teams](https://ieeexplore.ieee.org/document/6759182) — IEEE. Academic/technical paper (IEEE Xplore) that covers several Scrum pattersn I've found helpful when leading engineering teams.
 
 If you have suggestions, ping me via the Contact page or open a PR with your additions.
