@@ -35,44 +35,68 @@ permalink: /experience/
 ### Rocket Mortgage — Senior Director, Data Engineering
 *September 2023 – September 2025*
 
-Created Marketing and Finance Data Engineering Organization, responsible for all Lead Generation, Digital Data, Marketing, and Finance Data Engineering at Rocket.  Selected and implemented a Lakehouse-first, Composable CDP (Segment) across multiple Rocket Companies and Acquisitions.  Led AI transformation for lead generation at Rocket Mortgage.
+Created the Marketing and Finance Data Engineering organization, responsible for Lead Generation, Digital Data, Marketing, and Finance Data Engineering at Rocket.
+
+Selected and implemented a Lakehouse-first, composable CDP (Segment) across multiple Rocket Companies and acquisitions.
+
+Led the AI transformation for lead generation at Rocket Mortgage.
 
 ### Rocket Central — Vice President, Engineering
 *May 2022 – September 2023*
 
-Built a 163-person Software Engineering organization responsible for a $24.5M operating budget across 19 engineering teams.  Delivered multiple high-value products including MyRocket.com, Rocket Rewards, and Rocket Home Buying Plan.  Led the selection and implementation of the first CDP for Rocket Companies (Salesforce Datacloud).
+Built a 163-person software engineering organization responsible for a $24.5M operating budget across 19 engineering teams.
+
+Delivered multiple high-value products including MyRocket.com, Rocket Rewards, and Rocket Home Buying Plan.
+
+Led the selection and implementation of the first CDP for Rocket Companies (Salesforce Datacloud).
 
 ### Rocket Mortgage — Senior Director, Engineering
 *September 2020 – September 2022*
 
-As the Rocket Family of Companies evolved into a diverse set of homeownership brands, I was tasked with aligning each company into a unified Digital Storefront.  During this time, I led the selection and implementation of Rocket’s first Digital Experience Platform (Sitecore DXP and Content Hub) and a next-gen Digital Marketing Automation Platform (SFMC). I was also responsible for the selection and implementation of Rocket’s next generation dialing platform (Alvaria) before it was eventually migrated to Twilio.
+As the Rocket Family of Companies evolved into a diverse set of homeownership brands, I was tasked with aligning each company into a unified digital storefront.
 
-### Quicken Loans - Director, Software Engineering
+During this time I led the selection and implementation of Rocket’s first digital experience platform (Sitecore DXP and Content Hub) and a next-generation digital marketing automation platform (SFMC).
+
+I was also responsible for the selection and implementation of Rocket’s next-generation dialing platform (Alvaria), which was later migrated to Twilio.
+
+### Quicken Loans — Director, Software Engineering
 *September 2015 – September 2020*
 
-Responsible for Architecture, Engineering, and Operations across 5 teams that own the Digital Storefront for Rocket Mortgage.  This included both the presentation layer, as well as the underlying tooling, systems, and infrastructure.  I was responsible for the selection and implementation of Rocket’s first Content Management (Ingeniux and WordPress CMS), Digital Asset Management (Widen DAM), Digital Analytics (Adobe Analytics), and Experimentation (Adobe Target and Oracle Maxymiser) platforms.  I also created Rocket Mortgage’s first Experimentation Program.
+Responsible for architecture, engineering, and operations across five teams that owned the digital storefront for Rocket Mortgage.
 
-### Quicken Loans - Team Leader, Engineering
+This included both the presentation layer and the underlying tooling, systems, and infrastructure.
+
+Led the selection and implementation of Rocket’s first content management systems (Ingeniux and WordPress), digital asset management (Widen DAM), digital analytics (Adobe Analytics), and experimentation platforms (Adobe Target and Oracle Maxymiser).
+
+Created Rocket Mortgage’s first Experimentation Program.
+
+### Quicken Loans — Team Leader, Engineering
 *2013 – 2015*
 
-Recognized as a top performer and promoted to lead a software engineering team tasked with building and implementing the first Master Data Management, Marketing Automation, and Marketing Operations platforms at Rocket Mortgage.  This involved both home-grown and commercially built solutions.  Grew MarTech and Operational Data Engineering from one team to three in just two years.
+Recognized as a top performer and promoted to lead a software engineering team tasked with building and implementing the first master data management, marketing automation, and marketing operations platforms at Rocket Mortgage.
 
-### Quicken Loans - Product Owner
+Worked with both home-grown and commercial solutions and grew MarTech and operational data engineering from one team to three in two years.
+
+### Quicken Loans — Product Owner
 *2012 – 2013*
 
-Leveraged a combination of deep business and technology knowledge to create complex solutions.  Led the implementation of the first Client Loyalty Program at Rocket Mortgage (Gold and Silver Card Program).
+Leveraged a combination of business and technology knowledge to create complex solutions.
 
-### Quicken Loans - Executive Mortgage Banker
+Led the implementation of the first Client Loyalty Program at Rocket Mortgage (Gold and Silver Card Program).
+
+### Quicken Loans — Executive Mortgage Banker
 *2007 – 2012*
 
-Earned Senior Mortgage Banker and Executive Mortgage Banker titles during the most difficult years in modern history to originate mortgages.  Rocket Mortgage Banking was regarded as a highly competitive, challenging, and rewarding sales environment.
+Earned Senior Mortgage Banker and Executive Mortgage Banker titles during a highly competitive and challenging period for mortgage origination.
+
+Rocket Mortgage Banking was regarded as a competitive and rewarding sales environment.
 
 ## Education
-### M.S. in Technology Management, NC A&T State University ###
-Coursework on Business Administration (Statistics, Analytics, Strategy, Innovation, and Research), Lean Six Sigma, Design of Experiments, and Cyber Security.
+### M.S. in Technology Management, NC A&T State University
+Coursework on business administration (statistics, analytics, strategy, innovation, and research), Lean Six Sigma, design of experiments, and cyber security.
 
-### B.S. in Cloud Computing and Solutions, Purdue University Global ###
-Coursework on Hyperscaler Architecture, System Engineering (Windows and Linux), Network and System Security, and Database Engineering.  Graduated Summa Cum Laude with highest distinction.  
+### B.S. in Cloud Computing and Solutions, Purdue University Global
+Coursework on hyperscaler architecture, system engineering (Windows and Linux), network and system security, and database engineering. Graduated Summa Cum Laude with highest distinction.
 
 ## Certifications
 ### AWS Solutions Architect — Associate, Amazon Web Services
