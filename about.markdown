@@ -6,7 +6,7 @@ permalink: /about/
 
 # What People Say About Me
 
-Across my career, feedback from my leaders, team members, and partners consistently highlights a blend of **compassionate, people-first leadership** with **deep technical expertise and strategic execution**. My focus is always on accelerating organizational growth while empowering the people I work with.
+Across my career, feedback from my leaders, team members, and partners consistently highlights a blend of **compassionate, people-first leadership** with **deep technical expertise and strategic execution**. My focus is always on accelerating organizational growth while empowering the people I work with.  This feedback is sourced directly from my [LinkedIn](https://www.linkedin.com/in/davidajuan/) recommendations.
 
 ---
 
@@ -24,7 +24,7 @@ My direct leader and cross-functional partners emphasize my ability to set a cle
 > **Abigail Sullivan**
 > "Director- CRM & Lifecycle Marketing"
 >
-> "David is a fantastic leader who is **excellent at articulating business needs and consumer pain points** to bring teams together for problem solving and ideation. David has extensive knowledge and experience with $\text{CDP}$ and other $\text{martech}$ systems to deliver growth at scale!"
+> "David is a fantastic leader who is **excellent at articulating business needs and consumer pain points** to bring teams together for problem solving and ideation. David has extensive knowledge and experience with CDP and other MarTech systems to deliver growth at scale!"
 
 > **Scott Bragg**
 > "Content and Design Strategist | Writer"
@@ -33,7 +33,7 @@ My direct leader and cross-functional partners emphasize my ability to set a cle
 
 ---
 
-## 👑 The Leader of Leaders (My Direct Reports)
+## 👑 The Leader of Leaders
 
 This feedback comes from the managers and directors who reported directly to me, focusing on my ability to mentor and manage other leaders, drive strategic alignment, and foster a high-performing culture.
 
@@ -59,7 +59,7 @@ This feedback comes from the managers and directors who reported directly to me,
 
 ---
 
-## 👥 The People-First Mentor & Team Builder (My Team Members)
+## 👥 The People-First Mentor & Team Builder
 
 These quotes come from the engineers and team members who reported indirectly to me, highlighting my impact on their growth, the technical environment, and the team culture I helped establish.
 
@@ -111,7 +111,5 @@ Across all groups, I am recognized for applying a rare depth of technical knowle
 Life isn't just about code and strategy. I love rock climbing, hunting, fishing, camping, and pretty much all things outdoors. I play guitar and the ukulele whenever I can and even won the Quicken Loans [Making The Band](https://www.youtube.com/watch?v=o6ZV4m0NP-M) contest back in 2014.
 
 I somehow convinced my beautiful wife Alicia to [marry me](https://www.youtube.com/watch?v=dKtDMy_Es2E) in 2010, and together we have two awesome girls, Sophia and Emma.
-
-If you want the full professional rundown, you can learn more about my [experience here](/experience/) or connect with me on [LinkedIn](https://www.linkedin.com/in/davidajuan/).
 
 <img src="/assets/images/kauai-family-photo.webp" alt="Kauai family photo">
