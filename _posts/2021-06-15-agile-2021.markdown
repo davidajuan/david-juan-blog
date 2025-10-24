@@ -1,8 +1,28 @@
 ---
 layout: post
-title: "Agile 2021"
+title: "Agile2021: Celebrating the Agile Manifesto's 20th Anniversary 🚀"
 categories: technology
 ---
-Next month I will be representing Rocket Mortgage at the largest Agile conference in the world! This year marks the 20th anniversary of both the conference and the Agile Manifesto. I'm excited to share the content that I've been working on with David Negron and Jeff Sutherland.
+\<img src="/assets/images/agile-2021.jpg" alt="Highlights from my journey at Rocket" class="center"\>
 
-<img src="/assets/images/agile-2021.jpg" alt="Highlights from my journey at Rocket" class="center">
+I recently had the incredible **privilege** of representing **Rocket Mortgage** at the world's largest Agile conference, **Agile2021**\! It was an unforgettable experience, made even more special as it coincided with the **20th anniversary of the Agile Manifesto**.
+
+Though the conference was held virtually due to COVID restrictions, the energy and insights were just as powerful. It was a career highlight to be there alongside two fantastic colleagues: **David Negron** and the legendary **Jeff Sutherland**, who is, of course, the **co-inventor of Scrum**\!
+
+Being able to document this moment, especially during such a significant anniversary for the Agile community, is something I'll cherish.
+
+-----
+
+## Watch Our Presentation
+
+If you're curious about the work we presented or want to dive deeper into our insights, you can watch our session below.
+
+\<iframe width="560" height="315" src="[https://www.youtube.com/embed/tyLjjho3wj8?si=xqy7aEwYxbBgPCVt\&amp;start=10](https://www.youtube.com/embed/tyLjjho3wj8?si=xqy7aEwYxbBgPCVt&amp;start=10)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen\>\</iframe\>
+
+-----
+
+## Reflections on 20 Years of Agile
+
+The evolution of Agile principles over the past two decades is truly inspiring. The core values—**individuals and interactions over processes and tools**, **working software over comprehensive documentation**, **customer collaboration over contract negotiation**, and **responding to change over following a plan**—remain as vital today as they were in 2001. It's a testament to the framework that it continues to drive innovation and efficiency in our industry.
+
+I'm looking forward to the next chapter of this journey\!
