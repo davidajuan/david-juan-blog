@@ -3,7 +3,7 @@ layout: post
 title: "Agile2021: Celebrating the Agile Manifesto's 20th Anniversary 🚀"
 categories: technology
 ---
-\<img src="/assets/images/agile-2021.jpg" alt="Highlights from my journey at Rocket" class="center"\>
+<img src="/assets/images/agile-2021.jpg" alt="Highlights from my journey at Rocket" class="center">
 
 I recently had the incredible **privilege** of representing **Rocket Mortgage** at the world's largest Agile conference, **Agile2021**\! It was an unforgettable experience, made even more special as it coincided with the **20th anniversary of the Agile Manifesto**.
 
@@ -17,7 +17,7 @@ Being able to document this moment, especially during such a significant anniver
 
 If you're curious about the work we presented or want to dive deeper into our insights, you can watch our session below.
 
-\<iframe width="560" height="315" src="[https://www.youtube.com/embed/tyLjjho3wj8?si=xqy7aEwYxbBgPCVt\&amp;start=10](https://www.youtube.com/embed/tyLjjho3wj8?si=xqy7aEwYxbBgPCVt&amp;start=10)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen\>\</iframe\>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tyLjjho3wj8?si=xqy7aEwYxbBgPCVt&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 -----
 
