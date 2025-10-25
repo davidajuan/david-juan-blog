@@ -51,14 +51,19 @@ span.post-meta { color: $white-off; }
 blockquote,
 blockquote p {
   color: $white-off;
-  font-style: italic; /* keep emphasis but adjust weight */
-  font-weight: 500; /* lighter than bold for improved readability */
-  letter-spacing: 0.2px; /* slight spacing to improve separation */
+  /* Keep quoted feedback readable: normal weight and no forced italic.
+     Emphasis inside quotes (strong/em) will control bold/italic as needed. */
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0; 
 }
 
 /* Reduce weight for strong/em within blockquotes so bold-italic isn't too heavy */
-blockquote strong,
+blockquote strong {
+  /* Make explicit bold for names/titles and intentional emphasis */
+  font-weight: 700;
+}
+
 blockquote em {
-  font-weight: 500;
   font-style: italic;
 }
