@@ -4,8 +4,7 @@ title: "Maximizing Your LinkedIn Recommendations: A Smarter, AI-Powered Approach
 categories: technology
 ---
 ---
-
-
+<br>
 I just finished a fun little side project to keep my **static site generation** and **CI/CD** skills current (using a bunch of AI coding tools, of course!). I figured I'd share it because I think it’s a smart solution for maximizing your LinkedIn profile data.
 
 I’m sure you’ve asked or answered this interview question at some point in your career: **“What would your team say about you?”**
