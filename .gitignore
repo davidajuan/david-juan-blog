@@ -1,3 +1,10 @@
+## Ignore image backup folders created by optimization scripts
+**/.image_backups/
+.image_backups/
+
+# OS files
+Thumbs.db
+.DS_Store
 *.DS_Store
 _site
 .sass-cache
