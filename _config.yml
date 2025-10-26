@@ -23,6 +23,7 @@ email: david.a.juan@gmail.com
 description: A blog about technology, the great outdoors, and life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davidajuan.com" # the base hostname & protocol for your site
+lang: en
 google_analytics: "G-TJ6RPQ9ESM"
 twitter_username: davidjuan
 github_username:  davidajuan
@@ -33,6 +34,8 @@ permalink: /:categories/:year/:month/:day/:title
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 sass:
   style: compact # possible values: nested expanded compact compressed
 

@@ -24,7 +24,7 @@ except Exception:
 IMAGE_EXTS = {'.jpg', '.jpeg', '.png', '.gif'}
 
 
-def optimize_image(path: Path, tmp_path: Path, quality: int, convert_webp: bool):
+def optimize_image(path: Path, tmp_path: Path, quality: int, convert_webp: bool, max_width: int = None):
     ext = path.suffix.lower()
     size_before = path.stat().st_size
     saved_webp = False
@@ -35,13 +35,20 @@ def optimize_image(path: Path, tmp_path: Path, quality: int, convert_webp: bool)
                 # just copy as-is
                 return size_before, size_before, False
 
+            # Prepare image object and optionally resize
+            img = im
+            if max_width and getattr(img, 'width', None) and img.width > max_width:
+                ratio = max_width / float(img.width)
+                new_height = int(float(img.height) * ratio)
+                img = img.resize((max_width, new_height), Image.LANCZOS)
+
             # Use RGB for JPEGs
             if ext in ('.jpg', '.jpeg'):
-                img = im.convert('RGB')
+                img = img.convert('RGB')
                 img.save(tmp_path, format='JPEG', quality=quality, optimize=True, progressive=True)
             elif ext == '.png':
                 # For PNGs, try to save with optimize flag
-                img = im.convert('RGBA') if im.mode in ('RGBA', 'LA') else im.convert('RGB')
+                img = img.convert('RGBA') if img.mode in ('RGBA', 'LA') else img.convert('RGB')
                 img.save(tmp_path, format='PNG', optimize=True)
             elif ext == '.gif':
                 im.save(tmp_path, format='GIF', optimize=True)
@@ -79,6 +86,7 @@ def main():
     parser.add_argument('root', help='Root directory to scan for images')
     parser.add_argument('--quality', type=int, default=82, help='JPEG/WebP quality (default: 82)')
     parser.add_argument('--convert-webp', action='store_true', help='Attempt to create WebP variants')
+    parser.add_argument('--max-width', type=int, default=None, help='Resize images wider than this width (preserve aspect ratio)')
     parser.add_argument('--dry-run', action='store_true', help='Show what would be changed without writing')
     args = parser.parse_args()
 
@@ -111,7 +119,7 @@ def main():
                 print(f"DRY: would optimize {p} ({size_before} bytes)")
                 continue
 
-            size_before, size_after, webp = optimize_image(p, tmp_path, args.quality, args.convert_webp)
+            size_before, size_after, webp = optimize_image(p, tmp_path, args.quality, args.convert_webp, args.max_width)
             results.append((str(p), size_before, size_after, webp))
             total_before += size_before
             total_after += size_after
