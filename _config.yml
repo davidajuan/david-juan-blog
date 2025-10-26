@@ -20,9 +20,11 @@
 
 title: David Juan's Blog
 email: david.a.juan@gmail.com
-description: A blog about technology, the great outdoors, and life. # this means to ignore newlines until "baseurl:"
+description: A blog about technology, the great outdoors, and life.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://davidajuan.com" # the base hostname & protocol for your site, set to your production domain
+lang: en
+google_analytics: "UA-167754410-1"
 twitter_username: davidjuan
 github_username:  davidajuan
 markdown: kramdown
@@ -32,6 +34,8 @@ permalink: /:categories/:year/:month/:day/:title
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 sass:
   style: compact # possible values: nested expanded compact compressed
 
