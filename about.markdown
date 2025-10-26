@@ -29,7 +29,7 @@ My direct leaders and cross-functional partners emphasize my ability to set a cl
 > **Abigail Sullivan**
 > Director, CRM & Lifecycle Marketing - Rocket Mortgage
 >
-> "David is a fantastic leader who is **excellent at articulating business needs and consumer pain points** to bring teams together for problem solving and ideation. David has extensive knowledge and experience with $\text{CDP}$ and other $\text{martech}$ systems to deliver growth at scale!"
+> "David is a fantastic leader who is **excellent at articulating business needs and consumer pain points** to bring teams together for problem solving and ideation. David has extensive knowledge and experience with **CDP** and other **martech** systems to deliver growth at scale!"
 
 > **Scott Bragg**
 > Experience Director - Quicken Loans
