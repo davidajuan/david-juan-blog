@@ -1,6 +1,6 @@
 ---
 layout: home
-title: David Juan — Engineering leadership, product & systems
+tagline: Leading digital transformation through engineering excellence.
 tagline: Leading digital transformation through engineering excellence.
 description: Engineering leadership, product strategy, and practical lessons from large-scale platform delivery.
 image: /assets/images/social-card.svg
@@ -12,17 +12,7 @@ image_alt: "David Juan — engineering leader"
 	<img src="/assets/images/hero-800.jpg" alt="David Juan — engineering leader outdoors" width="1200" height="600" loading="lazy" style="max-width:100%;height:auto;">
 </picture>
 
-## I'm a technologist from Detroit writing about engineering leadership, product strategy, and life. For the most recent updates, check my [LinkedIn](https://www.linkedin.com/in/davidajuan/){:target="_blank" rel="noopener noreferrer"}.
+<p class="home-subheading">I'm a technologist from Detroit writing about engineering leadership, product strategy, and life. For the most recent updates, check my <a href="https://www.linkedin.com/in/davidajuan/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
 
 ---
-
-## Latest posts
-<ul class="posts-list">
-	{% for post in site.posts limit:5 %}
-		<li>
-			<a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-			<small>{{ post.date | date: "%b %-d, %Y" }}</small>
-		</li>
-	{% endfor %}
-</ul>
 
