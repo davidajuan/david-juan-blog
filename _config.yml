@@ -22,9 +22,9 @@ title: David Juan's Blog
 email: david.a.juan@gmail.com
 description: A blog about technology, the great outdoors, and life.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://davidajuan.com" # the base hostname & protocol for your site, set to your production domain
+url: "https://davidajuan.com" # the base hostname & protocol for your site
 lang: en
-google_analytics: "UA-167754410-1"
+google_analytics: "G-TJ6RPQ9ESM"
 twitter_username: davidjuan
 github_username:  davidajuan
 markdown: kramdown
