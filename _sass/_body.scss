@@ -67,3 +67,19 @@ blockquote strong {
 blockquote em {
   font-style: italic;
 }
+
+/* Homepage specific styles */
+.home-subheading {
+  font-size: 1.05rem; /* slightly smaller so it fits two lines */
+  line-height: 1.35;
+  margin-top: 1rem;
+  color: $white-off;
+  max-width: 60rem;
+}
+
+/* Use same lighter blue as the site-title for links on the homepage */
+.home a {
+  color: $site-title-color;
+  &:visited { color: $site-title-color; }
+  &:hover { text-decoration: none; color: darken($site-title-color, 8%); }
+}

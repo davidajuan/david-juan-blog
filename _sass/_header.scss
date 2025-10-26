@@ -1,5 +1,8 @@
 .site-title {
+    color: $site-title-color;
+    font-weight: 700;
     &:hover {
       text-decoration: none;
+      color: darken($site-title-color, 8%);
     }
 }
