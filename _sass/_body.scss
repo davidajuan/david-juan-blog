@@ -79,7 +79,8 @@ blockquote em {
 
 /* Use same lighter blue as the site-title for links on the homepage */
 .home a {
-  color: $site-title-color;
-  &:visited { color: $site-title-color; }
-  &:hover { text-decoration: none; color: darken($site-title-color, 8%); }
+  /* homepage links should use the lighter blue used elsewhere ($gray-light == #b3ccd6) */
+  color: $gray-light;
+  &:visited { color: $gray-light; }
+  &:hover { text-decoration: none; color: darken($gray-light, 8%); }
 }
