@@ -122,7 +122,7 @@ Across all groups, I am recognized for applying a rare depth of technical knowle
 > **Chris Raheb**
 > Senior Software Engineer II - Rocket Mortgage
 >
-> "David is a strong leader. As an engineer working with him, I found that he always had a strong understanding of how things worked on both the product and engineering sides. He
+> "David is a strong leader. As an engineer working with him, I found that he always had a strong understanding of how things worked on both the product and engineering sides. He was **excellent at resolving any engineering blocks** we encountered."
 
 ---
 
