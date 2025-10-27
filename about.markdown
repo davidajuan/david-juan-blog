@@ -26,6 +26,11 @@ My direct leaders and cross-functional partners emphasize my ability to set a cl
 > "I worked closely with David during his tenure at Rocket, and the results he delivered were nothing short of transformative. David seamlessly **bridges strategic vision with hands-on execution**, making him an ideal technical leader for any growth-oriented organization... Rocket’s implementation of Sitecore **accelerated our time to market for launching new sites by orders of magnitude**... He built architecture, best practices, and processes that scaled as our business grew."
 
 ### From Partners
+> **Jasen Sams**
+> Vice President of Rocket Innovation Studios
+>
+> "**David’s leadership is client centric and rooted in strong product ownership** – he can **rally a diverse group of stakeholders, inspire them around a shared mission**, and see an idea through to production and beyond. His integrity and care make him a **trusted partner**."
+
 > **Abigail Sullivan**
 > Director, CRM & Lifecycle Marketing - Rocket Mortgage
 >
@@ -68,6 +73,11 @@ This feedback comes from the managers and directors who reported directly to me,
 
 These quotes come from the engineers and team members who reported indirectly to me, highlighting my impact on their growth, the technical environment, and the team culture I helped establish.
 
+> **Jasen Sams**
+> Vice President of Rocket Innovation Studios
+>
+> "I first met David over 13 years ago when I joined Rocket as an intern. From day one, **he took me under his wing and taught me everything** from mortgage fundamentals to the role of a Business Analyst, the SDLC and the way technology, sales and marketing interact. His **mentorship shaped my early career** and set me on the path I’m on today."
+
 > **Janina Phillips**
 > Staff UX Engineer - Rocket Mortgage
 >
@@ -99,15 +109,20 @@ Across all groups, I am recognized for applying a rare depth of technical knowle
 >
 > "What sets David apart is his combination of: **Technical leadership** — not just knowing the stack but pushing boundaries... **Execution excellence** — driving cross-functional teams to deliver complex initiatives on time, with clarity and accountability."
 
-> **Chris Raheb**
-> Senior Software Engineer II - Rocket Mortgage
+> **Jasen Sams**
+> Vice President of Rocket Innovation Studios
 >
-> "David is a strong leader. As an engineer working with him, I found that he always had a strong understanding of how things worked on both the product and engineering sides. He was **excellent at resolving any engineering blocks** we encountered."
+> "**He has specialized in SDLC and CI/CD methodologies and used that expertise to build systems that our teams rely on daily.** His **vision helped establish the foundation for our data strategy**."
 
 > **Abhishek Singh**
 > Senior Solutions Architect - Rocket Mortgage
 >
 > "**Equally transformative was David’s work in bringing together and consolidating the Digital Analytics platform while introducing the first-ever Consumer Data Platform** at Rocket... By championing a **headless architecture**, he laid the groundwork for long-term scalability."
+
+> **Chris Raheb**
+> Senior Software Engineer II - Rocket Mortgage
+>
+> "David is a strong leader. As an engineer working with him, I found that he always had a strong understanding of how things worked on both the product and engineering sides. He
 
 ---
 
