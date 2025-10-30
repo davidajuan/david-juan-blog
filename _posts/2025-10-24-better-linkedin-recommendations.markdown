@@ -36,7 +36,7 @@ While I was updating my personal website (and going deeper on AI coding tools), 
 
 It instantly turned a blob of individual recommendations into a concise, **data-backed snapshot** of my leadership style. I’m really happy with how it came out! For anyone who's hiring, this kind of thematic, easy-to-digest feedback is incredibly valuable.
 
-Check out the result here: **[https://lnkd.in/gAR5-Jp4](https://lnkd.in/gAR5-Jp4)**
+Check out the result here: **[About](/about)**
 
 ---
 
