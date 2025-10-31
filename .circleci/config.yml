@@ -1,3 +1,105 @@
+version: 2.1
+
+# Pipeline-level parameter: optional file to post (falls back to LINKEDIN_POST_FILE env var)
+parameters:
+  linkedin_post_file:
+    type: string
+    default: ""
+
+orbs: {}
+
+jobs:
+  install-python-deps:
+    docker:
+      - image: cimg/python:3.11
+    steps:
+      - checkout
+      - run:
+          name: Upgrade pip and install requirements
+          command: |
+            python -m pip install --upgrade pip
+            if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+  generate_previews:
+    docker:
+      - image: cimg/python:3.11
+    steps:
+      - checkout
+      - run:
+          name: Install deps
+          command: |
+            python -m pip install --upgrade pip
+            if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - run:
+          name: Create previews dir and run preview generator
+          command: |
+            PREV_DIR=artifacts/linkedin-previews
+            mkdir -p "$PREV_DIR"
+            python scripts/linkedin_publish.py generate-previews --out-dir "$PREV_DIR"
+      - store_artifacts:
+          path: artifacts/linkedin-previews
+          destination: linkedin-previews
+
+  post_linkedin:
+    parameters:
+      linkedin_post_file:
+        type: string
+        default: ""
+    docker:
+      - image: cimg/python:3.11
+    steps:
+      - checkout
+      - run:
+          name: Install deps
+          command: |
+            python -m pip install --upgrade pip
+            if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - run:
+          name: Resolve post file (parameter or env fallback)
+          shell: /bin/bash -lc
+          command: |
+            POST_FILE="<< parameters.linkedin_post_file >>"
+            # If pipeline/job parameter is empty, fall back to env var LINKEDIN_POST_FILE
+            if [ -z "$POST_FILE" ]; then
+              POST_FILE="$LINKEDIN_POST_FILE"
+            fi
+            if [ -z "$POST_FILE" ]; then
+              echo "No post file specified via pipeline parameter or LINKEDIN_POST_FILE env var. Aborting to avoid accidental posts." >&2
+              exit 1
+            fi
+            echo "Posting file: $POST_FILE"
+            # Expose resolved file to next step via an env file
+            echo "POST_FILE=$POST_FILE" > /tmp/resolved_post_file.env
+      - run:
+          name: Post to LinkedIn
+          shell: /bin/bash -lc
+          command: |
+            set -euo pipefail
+            # load POST_FILE
+            source /tmp/resolved_post_file.env
+            # Optionally allow commit-after-post via env var COMMIT_AFTER_POST (true/false)
+            python scripts/linkedin_publish.py post --file "$POST_FILE" ${COMMIT_AFTER_POST:+--commit-after-post}
+
+workflows:
+  linkedin_posting:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only: main
+      - push
+    jobs:
+      - generate_previews
+      - hold_for_review:
+          type: approval
+          requires:
+            - generate_previews
+      - post_linkedin:
+          name: post_linkedin
+          requires:
+            - hold_for_review
+          linkedin_post_file: << pipeline.parameters.linkedin_post_file >>
 defaults: &defaults
   working_directory: ~/repo
 version: 2
