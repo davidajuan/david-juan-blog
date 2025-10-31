@@ -1,25 +1,7 @@
 version: 2.1
 
-# Pipeline-level parameter: optional file to post (falls back to LINKEDIN_POST_FILE env var)
-parameters:
-  linkedin_post_file:
-    type: string
-    default: ""
-
-orbs: {}
-
+# Minimal CircleCI config for LinkedIn preview -> approval -> post flow
 jobs:
-  install-python-deps:
-    docker:
-      - image: cimg/python:3.11
-    steps:
-      - checkout
-      - run:
-          name: Upgrade pip and install requirements
-          command: |
-            python -m pip install --upgrade pip
-            if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
   generate_previews:
     docker:
       - image: cimg/python:3.11
@@ -41,10 +23,6 @@ jobs:
           destination: linkedin-previews
 
   post_linkedin:
-    parameters:
-      linkedin_post_file:
-        type: string
-        default: ""
     docker:
       - image: cimg/python:3.11
     steps:
@@ -55,29 +33,21 @@ jobs:
             python -m pip install --upgrade pip
             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - run:
-          name: Resolve post file (parameter or env fallback)
+          name: Resolve post file from LINKEDIN_POST_FILE env var
           shell: /bin/bash -lc
           command: |
-            POST_FILE="<< parameters.linkedin_post_file >>"
-            # If pipeline/job parameter is empty, fall back to env var LINKEDIN_POST_FILE
-            if [ -z "$POST_FILE" ]; then
-              POST_FILE="$LINKEDIN_POST_FILE"
-            fi
-            if [ -z "$POST_FILE" ]; then
-              echo "No post file specified via pipeline parameter or LINKEDIN_POST_FILE env var. Aborting to avoid accidental posts." >&2
+            if [ -z "${LINKEDIN_POST_FILE:-}" ]; then
+              echo "LINKEDIN_POST_FILE not set; refusing to post to avoid accidental posts." >&2
               exit 1
             fi
-            echo "Posting file: $POST_FILE"
-            # Expose resolved file to next step via an env file
-            echo "POST_FILE=$POST_FILE" > /tmp/resolved_post_file.env
+            echo "Posting file: $LINKEDIN_POST_FILE"
+            echo "POST_FILE=$LINKEDIN_POST_FILE" > /tmp/resolved_post_file.env
       - run:
           name: Post to LinkedIn
           shell: /bin/bash -lc
           command: |
             set -euo pipefail
-            # load POST_FILE
             source /tmp/resolved_post_file.env
-            # Optionally allow commit-after-post via env var COMMIT_AFTER_POST (true/false)
             python scripts/linkedin_publish.py post --file "$POST_FILE" ${COMMIT_AFTER_POST:+--commit-after-post}
 
 workflows:
@@ -88,7 +58,6 @@ workflows:
           filters:
             branches:
               only: main
-      - push
     jobs:
       - generate_previews
       - hold_for_review:
@@ -96,124 +65,5 @@ workflows:
           requires:
             - generate_previews
       - post_linkedin:
-          name: post_linkedin
           requires:
             - hold_for_review
-          linkedin_post_file: << pipeline.parameters.linkedin_post_file >>
-defaults: &defaults
-  working_directory: ~/repo
-version: 2
-
-references:
-  install_awscli: &install_awscli
-    run:
-      name: Install AWS CLI
-      command: |
-        sudo pip install awscli --upgrade
-  add_aws_credentials: &add_aws_credentials
-    run:
-      name: Set AWS credentials
-      command: |
-        aws configure set aws_access_key_id ${AWS_ACCESS_KEY_ID}
-        aws configure set aws_secret_access_key ${AWS_SECRET_ACCESS_KEY}
-  deploy_to_s3: &deploy_to_s3
-    run:
-      name: Upload to s3 
-      command: |
-        echo "Copying files to server..."
-        aws s3 sync _site/ "s3://$S3_BUCKET_NAME" --size-only --exclude "*" --include "*.*" --delete
-        echo "Copying files with content type..."
-        aws s3 sync _site/ "s3://$S3_BUCKET_NAME" --size-only --content-type text/html --exclude "*.*"
-  clear_cloudfront_cache: &clear_cloudfront_cache
-    run:
-      name: Clear CloudFront cache
-      command: |
-        aws cloudfront create-invalidation --distribution-id "$CLOUD_FRONT_DIST_ID" --paths '/*'
-jobs: 
-  build:
-    <<: *defaults
-    docker:
-      - image: cimg/ruby:2.7.8-node
-    environment:
-      BUNDLE_PATH: ~/repo/vendor/bundle
-    steps:
-      - checkout
-      - restore_cache:
-          keys:
-            - rubygems-v1-{{ checksum "Gemfile.lock" }}
-            - rubygems-v1-fallback
-      - run:
-          name: Bundle Install
-          command: |
-            echo 'export BUNDLER_VERSION=$(cat Gemfile.lock | tail -1 | tr -d " ")' >> $BASH_ENV
-            source $BASH_ENV
-            # Install the Bundler version recorded in Gemfile.lock; fall back to 2.1.4 if that fails or is empty
-            if [ -n "$BUNDLER_VERSION" ]; then
-              gem install bundler -v "$BUNDLER_VERSION" || gem install bundler -v "2.1.4"
-            else
-              gem install bundler -v "2.1.4"
-            fi
-      - run:
-          name: Bundle Install
-          command: bundle check || bundle install
-      - save_cache:
-          key: rubygems-v1-{{ checksum "Gemfile.lock" }}
-          paths:
-            - vendor/bundle
-      - run:
-          name: Jekyll build
-          command: JEKYLL_ENV=production bundle exec jekyll build
-      - run:
-          name: Remove .html extension
-          command: find _site/ -type f ! -iname 'index.html' -iname '*.html' -print0 | while read -d $'\0' f; do mv "$f" "${f%.html}"; done
-      - persist_to_workspace:
-          root: ./
-          paths:
-            - _site
-  deploy_staging:
-    <<: *defaults
-    docker:
-      - image: circleci/python:3.6.3
-    environment:
-      S3_BUCKET_NAME: "david-juan-blog-staging"
-      CLOUD_FRONT_DIST_ID: "E4EWVLMLQFR27"
-    steps:
-      - attach_workspace:
-          at: ./
-      - *install_awscli
-      - *add_aws_credentials
-      - *deploy_to_s3
-      - *clear_cloudfront_cache
-  deploy_production:
-    <<: *defaults
-    docker:
-      - image: circleci/python:3.6.3
-    environment:
-      S3_BUCKET_NAME: "davidjuan.com"
-      CLOUD_FRONT_DIST_ID: "E2V4C53FB0IXGT"
-    steps:
-      - attach_workspace:
-          at: ./
-      - *install_awscli
-      - *add_aws_credentials
-      - *deploy_to_s3
-      - *clear_cloudfront_cache
-workflows:
-  version: 2
-  test-deploy:
-    jobs:
-      - build
-      - deploy_staging:
-          requires:
-            - build
-          filters:
-            branches:
-              only:
-                - main
-      - confirm_deploy:
-          type: approval
-          requires:
-            - deploy_staging
-      - deploy_production:
-          requires:
-            - confirm_deploy
